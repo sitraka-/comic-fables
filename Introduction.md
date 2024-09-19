@@ -76,6 +76,14 @@ layout: reveal
     <style>.header2 header:after { content: "MAID at the Yard Theatre (2023), Cosmic Fables"; }</style>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/lkRSJQHlAR0?si=rPOE144y3aAFSK9E&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </section>
+<section data-background-image="assets/imgs/arnem_1.jpg" data-state=arnem>
+    <style>.arnem header:after { content: "Artez, Product Design, 2024"; }</style>
+</section>
+<section data-background-image="assets/imgs/arnem_2.jpg" data-state=arnem>
+</section>
+<section data-state=arnem>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/zEqr0jKqxMY?si=siywqlQqY57XRCKE&amp;controls=0&amp;start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</section>
 <section>
     <h1 class="BT">Speculative Ethnographies / Crafting Worlds From Within</h1>
 </section>
