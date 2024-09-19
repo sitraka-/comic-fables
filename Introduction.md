@@ -19,5 +19,5 @@ layout: reveal
 </section>
 <section data-background-color="black" data-state=header2>
     <style>.header2 header:after { content: "Power of 10 — Charles & Ray Eames (1977)"; }</style>
-    <iframe width="560" height="420" src="https://www.youtube.com/embed/0fKBhvDjuy0?si=hW3hk7N34l9aM8RI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe width="560" height="420" src="https://www.youtube.com/embed/lkRSJQHlAR0?si=rPOE144y3aAFSK9E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </section>
