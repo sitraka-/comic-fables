@@ -5,8 +5,12 @@ layout: reveal
 <section>
     <h1 class="NT" style="font-family:'picnic' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 13rem !important;" >sound<br>systems</h1>
 </section>
+<section data-state=vvfa>
+ <style>.vvfa header:after { content: "Very Very Far Away"; }</style>
+    <h1 class="NT" style="font-family:'HND' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 13rem !important;" >sound<br>systems</h1>
+</section>
 <section>
-    <h1 class="BT">cosmic rites<br>fabled soundscapes</h1>
+    <h1 class="BT">\*\*≠.\</h1>
 </section>
 <section data-background-color="blueviolet" data-state=header1>
     <style>.header1 header:after { content: "Anderson, R. et al. (2018),Speculative Anthropologies"; }</style>
