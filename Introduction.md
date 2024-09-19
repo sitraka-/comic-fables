@@ -9,9 +9,6 @@ layout: reveal
  <style>.vvfa header:after { content: "Very Very Far Away"; }</style>
     <h1 class="NT" style="font-family:'HND' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 13rem !important;" >\*\*≠.\</h1>
 </section>
-<section>
-    <h1 class="BT">Cosmic Rites<br>Fabled Soundscapes</h1>
-</section>
 <section data-background-image="assets/imgs/pp1.jpg" data-state=header11>
     <style>.header11 header:after { content: "Prophecy Program, 2013"; }</style>
     <span style="font-size:5rem; font-family:'Rubik Wet Paint';">PROPHECY PROGRAM</span>
@@ -53,6 +50,9 @@ layout: reveal
 </section>
 
 <section data-background-image="assets/imgs/sho6.jpg" data-state=header12>
+</section>
+<section>
+    <h1 class="BT">Cosmic Rites<br>Fabled Soundscapes</h1>
 </section>
 <section data-background-color="blueviolet" data-state=header1>
     <style>.header1 header:after { content: "Anderson, R. et al. (2018),Speculative Anthropologies"; }</style>
