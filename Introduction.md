@@ -25,5 +25,5 @@ layout: reveal
     <h1 class="BT">Speculative Ethnographies / Crafting Worlds From Within</h1>
 </section>
 <section>
-    <h1 class="WP">IMAGINING OBJECTS, ARTEFACTS AND THINGS EMBODYING THE WORLD WITHIN WHICH THESE THINGS EXIST.</h1>
+    <h1 class="WP">IMAGINING OBJECTS, ARTEFACTS, RITUALS AND THINGS EMBODYING THE WORLD WITHIN WHICH THESE THINGS EXIST.</h1>
 </section>
