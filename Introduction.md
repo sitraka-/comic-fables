@@ -9,9 +9,13 @@ layout: reveal
  <style>.vvfa header:after { content: "Very Very Far Away"; }</style>
     <h1 class="NT" style="font-family:'HND' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 13rem !important;" >\*\*≠.\</h1>
 </section>
+
+<section data-background-image="assets/imgs/tc_arm.jpg" data-state=tcarm>
+    <style>.tcarm header:after { content: "Time Conditioning, 2010-2014"; }</style>
+</section>
+
 <section data-background-image="assets/imgs/pp1.jpg" data-state=header11>
     <style>.header11 header:after { content: "Prophecy Program, 2013"; }</style>
-    <span style="font-size:5rem; font-family:'Rubik Wet Paint';">PROPHECY PROGRAM</span>
 </section>
 
 <section data-background-image="assets/imgs/pp2.jpg" data-state=header11>
