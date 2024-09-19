@@ -8,6 +8,7 @@ Speculative ethnographies — crafting worlds from within
 
 ---
 # Timetable
+
 Date|TIME|TASK| Description|
 |---|-----|-----|-----|
 |Oct. 7| 10:00 | __*Briefing*__ | full day seminar |
