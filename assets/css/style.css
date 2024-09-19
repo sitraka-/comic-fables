@@ -19,8 +19,8 @@ body {
 .WP {
     font-family: "Rubik Wet Paint" !important;
     font-weight: normal !important;
-    /* font-size: 5rem !important; */
-    /* text-align: left !important; */
+    font-size: 4rem !important;
+    text-align: left !important;
     text-transform: uppercase !important;
 }
 
