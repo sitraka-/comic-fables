@@ -82,7 +82,7 @@ layout: reveal
 <section data-background-image="assets/imgs/arnem_2.jpg" data-state=arnem>
 </section>
 <section data-state=arnem>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/zEqr0jKqxMY?si=siywqlQqY57XRCKE&amp;controls=0&amp;start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="1920" height="1080" src="https://www.youtube.com/embed/zEqr0jKqxMY?si=siywqlQqY57XRCKE&amp;controls=0&amp;start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </section>
 <section>
     <h1 class="BT">Speculative Ethnographies / Crafting Worlds From Within</h1>
