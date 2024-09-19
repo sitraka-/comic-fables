@@ -9,9 +9,9 @@ layout: reveal
     <h1 class="BT">cosmic rites<br>X<br>fabled soundscapes</h1>
 </section>
 <section data-background-color="#0056FF" data-state=header1>
-    <style>.header1 header:after { content: "Anderson, R. et al. (2018),Speculative Anthropologies."; }</style>
+    <style>.header1 header:after { content: "Anderson, R. et al. (2018),Speculative Anthropologies"; }</style>
     <blockquote>
-        <em>(Designing)</em> at the intersection of speculative fiction and anthropology, we find a sense of epistemological humility about the kind of worlds we could or should inhabit. Yet epistemological humility should not be confused with futility: possibilities and potentialities still matter. We do not know what we are capable of, and yet that need not keep us from the pursuit of <em>what ifs</em>.
+        <em>(Designing)</em> at the intersection of speculative fiction and anthropology, we find a sense of epistemological humility about the kind of worlds we could or should inhabit. <br><br> We do not know what we are capable of, and yet that need not keep us from the pursuit of <em>what ifs</em>.
     </blockquote>
     <aside class="notes">
         Design does not exist in isolation, it isn't about a singular action. 📝
