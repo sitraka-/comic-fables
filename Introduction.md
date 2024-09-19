@@ -7,7 +7,7 @@ layout: reveal
 </section>
 <section data-background-color="#f0f8ff" data-state=vvfa>
  <style>.vvfa header:after { content: "Very Very Far Away"; }</style>
-    <h1 class="NT" style="font-family:'HND' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 13rem !important;letter-spacing: 20px;color:blueviolet !important;" >\'\'≠.\</h1>
+    <h1 class="NT" style="font-family:'HND' !important;text-transform: uppercase !important;font-size: 13rem !important;letter-spacing: 20px;color:blueviolet !important;" >\'\'≠.\</h1>
 </section>
 
 <section data-background-image="assets/imgs/tc_arm.jpg" data-state=tcarm>
@@ -51,6 +51,15 @@ layout: reveal
 
 <section data-background-image="assets/imgs/sho6.jpg" data-state=header12>
 </section>
+
+<section data-background-image="assets/imgs/eyefi_1.jpg" data-state=eyefi>
+    <style>.eyefi header:after { content: "Eye-Fi, 2024"; }</style>
+</section>
+
+<section data-background-image="assets/imgs/yokai.jpg" data-state=ono>
+    <style>.ono header:after { content: "Onomatopeic Machine, w/ Yuri Suzuki, 2024"; }</style>
+</section>
+
 <section>
     <h1 class="BT">Cosmic Rites<br>Fabled Soundscapes</h1>
 </section>
