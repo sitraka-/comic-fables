@@ -8,7 +8,9 @@ body {
 }
 
 .BT {
-    font-family: "Major Mono Display";
+    font-family: "Major Mono Display" !important;
+    font-weight: normal !important;
+    font-size: 4rem !important;
 }
 
 #cosmic-rites-x-fabled-soundscapes {
