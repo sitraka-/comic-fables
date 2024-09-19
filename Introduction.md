@@ -3,7 +3,7 @@ title: Introduction
 layout: reveal
 ---
 <section>
-    <h1 class="NT">SOUND SYSTEM</h1>
+    <h1 class="NT">SOUND<br>SYSTEMS</h1>
 </section>
 <section>
     <h1 class="BT">cosmic rites<br>X<br>fabled soundscapes</h1>

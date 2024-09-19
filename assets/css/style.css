@@ -13,6 +13,12 @@ body {
     font-size: 4rem !important;
 }
 
+.NT {
+    font-family: "Major Mono Display" !important;
+    font-weight: normal !important;
+    /* font-size: 4rem !important; */
+}
+
 #cosmic-rites-x-fabled-soundscapes {
     font-family: "Major Mono Display";
     font-size: 4rem;
