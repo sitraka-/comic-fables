@@ -12,6 +12,48 @@ layout: reveal
 <section>
     <h1 class="BT">\*\*≠.\</h1>
 </section>
+<section data-background-image="assets/imgs/pp1.jpg" data-state=header11>
+    <style>.header11 header:after { content: "Prophecy Program, 2013"; }</style>
+    <span style="font-size:5rem; font-family:'Rubik Wet Paint';">PROPHECY PROGRAM</span>
+</section>
+
+<section data-background-image="assets/imgs/pp2.jpg" data-state=header11>
+</section>
+
+<section data-background-image="assets/imgs/pp22.jpg" data-state=header11>
+</section>
+
+<section data-background-image="assets/imgs/pp3.jpg" data-state=header11>
+</section>
+
+<section data-background-image="assets/imgs/pp4.jpg" data-state=header11>
+</section>
+
+<section data-background-image="assets/imgs/pp5.jpg" data-state=header11>
+</section>
+
+<section data-background-image="assets/imgs/pp6.jpg" data-state=header11>
+</section>
+
+<section data-background-image="assets/imgs/sho1.jpg" data-state=header12>
+    <style>.header12 header:after { content: "Shocking, 2010"; }</style>
+    <span style="font-size:5rem; font-family:'Rubik Wet Paint';">SHOCKING</span>
+</section>
+
+<section data-background-image="assets/imgs/sho2.jpg" data-state=header12>
+</section>
+
+<section data-background-image="assets/imgs/sho3.jpg" data-state=header12>
+</section>
+
+<section data-background-image="assets/imgs/sho4.jpg" data-state=header12>
+</section>
+
+<section data-background-image="assets/imgs/sho5.jpg" data-state=header12>
+</section>
+
+<section data-background-image="assets/imgs/sho6.jpg" data-state=header12>
+</section>
 <section data-background-color="blueviolet" data-state=header1>
     <style>.header1 header:after { content: "Anderson, R. et al. (2018),Speculative Anthropologies"; }</style>
     <blockquote>
