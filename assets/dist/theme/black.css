@@ -22,12 +22,12 @@ section.has-light-background h6 {
  *********************************************/
 :root {
   --secondary-color: #d7daddd4;
-  --r-background-color: gainsboro;
+  --r-background-color: blueviolet;
   --r-main-font: 'IBM Plex Sans', sans-serif;
   --quote-font:
     'Vesper Libre', serif;
   --r-main-font-size: 42px;
-  --r-main-color: #1b1b1b;
+  --r-main-color: aliceblue;
   --r-block-margin: 20px;
   --r-heading-margin: 0 0 20px 0;
   --r-heading-font: 'IBM Plex Mono', monospace;
@@ -43,7 +43,7 @@ section.has-light-background h6 {
   --r-heading3-size: 1.3em;
   --r-heading4-size: 1em;
   --r-code-font: monospace;
-  --r-link-color: #0000FF;
+  --r-link-color: aliceblue;
   --r-link-color-dark: #068de9;
   --r-link-color-hover: #8dcffc;
   --r-selection-background-color: rgba(66, 175, 250, 0.75);
