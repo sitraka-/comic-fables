@@ -17,7 +17,7 @@ body {
     font-family: "Major Mono Display" !important;
     font-weight: normal !important;
     font-size: 9rem !important;
-    /* text-transform: lowercase; */
+    text-transform: lowercase !important;
 }
 
 #cosmic-rites-x-fabled-soundscapes {
