@@ -35,7 +35,6 @@ layout: reveal
 
 <section data-background-image="assets/imgs/sho1.jpg" data-state=header12>
     <style>.header12 header:after { content: "Shocking, 2010"; }</style>
-    <span style="font-size:5rem; font-family:'Rubik Wet Paint';">SHOCKING</span>
 </section>
 
 <section data-background-image="assets/imgs/sho2.jpg" data-state=header12>
