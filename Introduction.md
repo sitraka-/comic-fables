@@ -9,7 +9,7 @@ layout: reveal
 <section data-background-color="#0056FF" data-state=header1>
     <style>.header1 header:after { content: "Charles Eames"; }</style>
     <blockquote>
-        The details are not the details, they make the product, just as details make the architecture — the gauge of the wire, the selection of the wood, the finish of the castings — the connections, the connections, the connections.
+        <em>(Designing)</em> at the intersection of speculative fiction and anthropology, we find a sense of epistemological humility about the kind of worlds we could or should inhabit. Yet epistemological humility should not be confused with futility: possibilities and potentialities still matter. We do not know what we are capable of, and yet that need not keep us from the pursuit of <em>what ifs</em>.
     </blockquote>
     <aside class="notes">
         Design does not exist in isolation, it isn't about a singular action. 📝
