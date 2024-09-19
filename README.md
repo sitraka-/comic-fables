@@ -4,6 +4,7 @@ Speculative ethnographies — crafting worlds from within
 ---
 
 [Introduction Slides](Introduction.md)
+
 [Timetable](#timetable)
 
 ---
