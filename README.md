@@ -3,4 +3,4 @@ Speculative ethnographies — crafting worlds from within
 
 ---
 
-[Introduction](#INTRO.md)
+[Introduction](Introduction.md)

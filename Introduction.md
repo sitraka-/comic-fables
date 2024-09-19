@@ -1,5 +1,5 @@
 ---
-title: INTRO
+title: Introduction
 layout: reveal
 ---
 
