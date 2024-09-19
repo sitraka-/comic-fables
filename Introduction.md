@@ -5,9 +5,9 @@ layout: reveal
 <section>
     <h1 class="NT" style="font-family:'picnic' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 13rem !important;" >sound<br>systems</h1>
 </section>
-<section data-background-color="acliceblue" data-state=vvfa>
+<section data-background-color="#f0f8ff" data-state=vvfa>
  <style>.vvfa header:after { content: "Very Very Far Away"; }</style>
-    <h1 class="NT" style="font-family:'HND' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 13rem !important;letter-spacing: 20px; color:blueviolet !important;" >\'\'≠.\</h1>
+    <h1 class="NT" style="font-family:'HND' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 13rem !important;letter-spacing: 20px;color:blueviolet !important;" >\'\'≠.\</h1>
 </section>
 
 <section data-background-image="assets/imgs/tc_arm.jpg" data-state=tcarm>
