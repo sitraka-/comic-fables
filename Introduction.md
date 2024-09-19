@@ -3,10 +3,10 @@ title: Introduction
 layout: reveal
 ---
 <section>
-    <h1 class="NT">SOUND<br>SYSTEMS</h1>
+    <h1 class="NT">sound<br>systems</h1>
 </section>
 <section>
-    <h1 class="BT">cosmic rites<br>X<br>fabled soundscapes</h1>
+    <h1 class="BT">cosmic rites<br>fabled soundscapes</h1>
 </section>
 <section data-background-color="#0056FF" data-state=header1>
     <style>.header1 header:after { content: "Anderson, R. et al. (2018),Speculative Anthropologies"; }</style>
