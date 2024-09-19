@@ -14,6 +14,10 @@ layout: reveal
     <style>.tcarm header:after { content: "Time Conditioning, 2010-2014"; }</style>
 </section>
 
+<section data-background-image="assets/imgs/windcon_1.jpg" data-state=windcon>
+    <style>.windcon header:after { content: "Wind Concert, 2015"; }</style>
+</section>
+
 <section data-background-image="assets/imgs/pp2.jpg" data-state=header11>
 <style>.header11 header:after { content: "Prophecy Program, 2013"; }</style>
 </section>
