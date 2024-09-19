@@ -19,7 +19,7 @@ layout: reveal
 </section>
 <section data-state=header2>
     <style>.header2 header:after { content: "MAID at the Yard Theatre (2023), Cosmic Fables"; }</style>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/lkRSJQHlAR0?si=rPOE144y3aAFSK9E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/lkRSJQHlAR0?si=rPOE144y3aAFSK9E&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </section>
 <section>
     <h1 class="BT">Speculative Ethnographies / Crafting Worlds From Within</h1>
