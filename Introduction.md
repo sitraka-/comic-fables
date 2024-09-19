@@ -19,7 +19,7 @@ layout: reveal
 </section>
 
 <section data-background-image="assets/images/windCon_1.jpg" data-state=windcon>
-    <img src="assets/images/windCon_2.jpg" />
+    <img src="assets/imgs/windCon_2.jpg" />
 </section>
 
 <section data-background-image="assets/imgs/pp2.jpg" data-state=header11>
