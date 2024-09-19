@@ -4,7 +4,7 @@ layout: reveal
 ---
 
 <section>
-    <h1 class="BT">cosmic rites X fabled soundscapes</h1>
+    <h1 class="BT">cosmic rites<br>X<br>fabled soundscapes</h1>
 </section>
 <section data-background-color="#0056FF" data-state=header1>
     <style>.header1 header:after { content: "Charles Eames"; }</style>
