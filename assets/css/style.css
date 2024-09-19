@@ -7,6 +7,10 @@ body {
     font-family: 'IBM Plex Mono';
 }
 
+#BT {
+    font-family: "Major Mono Display";
+}
+
 #cosmic-rites-x-fabled-soundscapes {
     font-family: "Major Mono Display";
     font-size: 4rem;
