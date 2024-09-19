@@ -4,7 +4,7 @@ layout: reveal
 ---
 
 <section>
-    <img src="assets/images/cc1.png" />
+    # cosmic rites X fabled soundscapes
 </section>
 <section data-background-color="#0056FF" data-state=header1>
     <style>.header1 header:after { content: "Charles Eames"; }</style>
