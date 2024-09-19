@@ -1,2 +1,6 @@
-# cosmic-fables
-speculative ethnographies — building worlds through rituals and sounds
+# cosmic rites X fabled soundscapes
+Speculative ethnographies — crafting worlds from within
+
+---
+
+[Introduction](#INTRO.md)
