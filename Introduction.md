@@ -11,49 +11,22 @@ layout: reveal
         <thead>
             <tr>
                 <th class="tcol">10:00</th>
-                <th class="tcol t15">10:15</th>
-                <th class="tcol t30">10:30</th>
-                <th class="tcol t15">10:45</th>
                 <th class="tcol">11:00</th>
-                <th class="tcol t15">11:15</th>
                 <th class="tcol t30">11:30</th>
-                <th class="tcol t15">11:45</th>
-                <th class="tcol">12:00</th>
-                <th class="tcol t15">12:15</th>
-                <th class="tcol t30">12:30</th>
-                <th class="tcol t15">12:45</th>
                 <th class="tcol">13:00</th>
             </tr>
         </thead>
         <tbody>
             <tr>
                 <th class="trow">VVFA</th>
-                <th class="trow"></th>
-                <th class="trow"></th>
-                <th class="trow"></th>
                 <th class="trow">Digital Lab</th>
-                <th class="trow"></th>
                 <th class="trow">Nicholas Mortimer</th>
-                <th class="trow"></th>
-                <th class="trow"></th>
-                <th class="trow"></th>
-                <th class="trow"></th>
-                <th class="trow"></th>
                 <th class="trow">LUNCH</th>
             </tr>
             <tr>
                 <th class="trow">Briefing</th>
-                <th class="trow"></th>
-                <th class="trow"></th>
-                <th class="trow"></th>
                 <th class="trow">Meet Karsten Goodwin</th>
-                <th class="trow"></th>
                 <th class="trow">World of Sounds</th>
-                <th class="trow"></th>
-                <th class="trow"></th>
-                <th class="trow"></th>
-                <th class="trow"></th>
-                <th class="trow"></th>
                 <th class="trow">BREAK</th>
             </tr>
         </tbody>
