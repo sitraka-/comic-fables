@@ -117,3 +117,7 @@ h3 {
     text-transform: uppercase;
     font-family: 'IBM Plex Sans';
 }
+
+strong {
+    text-decoration: underline;
+}
