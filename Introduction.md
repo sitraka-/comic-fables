@@ -231,7 +231,7 @@ layout: reveal
 <style>.header21 header:after { content: 'The Boring Company (2017)'; }</style>
 </section>
 
-<section data-state=header19 data-background-color="black">
+<section data-state=header19 data-background-color="white">
     <style>.header19 header:after { content: "\\'\\'≠.\\ (2015)"; }</style>
     <img src="assets/imgs/medvsproc.jpg" />
 </section>
