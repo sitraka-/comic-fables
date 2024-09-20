@@ -180,5 +180,8 @@ layout: reveal
     <style>.sun header:after { content: "Space Is The Place, (1974), Sun Ra & John Coney"; }</style>
 </section>
 <section data-background-image="assets/imgs/sitp_1.jpg" data-background-opacity="1" data-state=sun>
-    <iframe width="1080" height="512" src="https://www.youtube.com/embed/Z8nppTSY-Rs?si=Pk8KgFlikTPCvXYa&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="700" height="500" src="https://www.youtube.com/embed/Z8nppTSY-Rs?si=Pk8KgFlikTPCvXYa&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</section>
+<section data-background-color="black" data-background-opacity="1" data-state=sun>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/owCPrIEliZc?si=SHJCzKfPKFhV_bgr&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </section>
