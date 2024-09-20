@@ -122,6 +122,9 @@ h3 {
     font-weight: normal;
     text-transform: uppercase;
     font-family: 'IBM Plex Sans';
+    border-bottom: solid thin;
+    border-top: solid thin;
+    padding: 1em 0;
 }
 
 hr {
