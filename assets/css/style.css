@@ -151,7 +151,7 @@ blockquote:first-of-type {
 @media only screen and (min-width: 1000px) {
     blockquote:first-of-type {
         position: fixed;
-        left: 0;
+        right: 0;
         top: -1em;
         /* border-left: dotted thin; */
     }
