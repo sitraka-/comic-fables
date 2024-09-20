@@ -222,5 +222,5 @@ layout: reveal
     <img src="assets/imgs/medvsproc.jpg" />
 </section>
 <section>
-    <span class="lit"">CRITICAL<br>FABLES</span>
+    <span class="lit">CRITICAL<br>FABLES</span>
 </section>
