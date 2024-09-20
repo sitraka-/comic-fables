@@ -44,7 +44,7 @@ The world you will explore is not defined by a single crisis or event but by the
 Your task is to design **objects** that facilitate or mediate these emerging rituals. These artefacts should be practical and integral to the functioning of the speculative world’s systems.
 
 **Examples**:
-- A **bureaucratic object** for managing identity verification in a dystopian society, which could be central to the regulation of people’s access to resources or mobility.
+- A **bureaucratic object** for managing identity verification which could be central to the regulation of people’s access to resources or mobility.
 - A **sonic tool** used to interact with the environment, perhaps helping inhabitants communicate with natural elements or harvest resources.
 - A **geopolitical device** acting as a border control mechanism in a fragmented world, possibly regulating who can cross into different territories.
 
