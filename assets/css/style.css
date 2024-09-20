@@ -133,6 +133,7 @@ hr {
     border: none;
     border-bottom: dotted thin;
     max-width: 600px;
+    margin: 0;
 }
 
 blockquote {
