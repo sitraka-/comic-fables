@@ -1,5 +1,5 @@
 # cosmic rites X fabled soundscapes
-Speculative ethnographies — crafting worlds from within
+**Speculative ethnographies — crafting worlds from within**
 
 ---
 
