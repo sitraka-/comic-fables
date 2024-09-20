@@ -17,6 +17,7 @@
 [✓ 6. Biome As Metaphor](#6-biome-as-metaphor)
 
 [✓ Timetable](#timetable)
+
 ---
 
 > (Designing) at the intersection of speculative fiction and anthropology, we find a sense of epistemological humility about the kind of worlds we could or should inhabit. Yet epistemological humility should not be confused with futility: possibilities and potentialities still matter. We do not know what we are capable of, and yet that need not keep us from the pursuit of what ifs. 
