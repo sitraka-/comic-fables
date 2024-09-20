@@ -52,12 +52,12 @@ The objects should reflect the **systems** of this world (social, political, or 
 
 ### 2. Ritual as Everyday Construct
 
-Rituals, in this brief, extend beyond traditional ceremonies and include **any organised, habitual practice** that forms part of the world’s social fabric. These might be daily practices, such as energy harvesting, regular communication across colonies, or the management of scarce resources.
+Rituals, in this brief, extend beyond traditional ceremonies and include **any organised, habitual practice** that forms part of the world’s social fabric. These might be daily practices, such as energy harvesting, regular communication across locations, or the management of scarce resources.
 
 Each group is tasked with designing objects that play a pivotal role in these **practical, everyday rituals**. Rather than focusing on metaphorical representations, the object should serve a functional purpose within the world’s structures.
 
 **Examples**:
-- A **device** that facilitates sonic communications between distant colonies as part of a survival or resource-sharing ritual.
+- A **device** that facilitates sonic communications between distant communities as part of a survival or resource-sharing ritual.
 - A **tool** used in daily environmental monitoring, with its sound indicating shifts in climate or resource availability.
 
 Your focus is to create objects that **function** within the speculative world’s systems, helping to ground the rituals in a practical, everyday context.
