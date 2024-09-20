@@ -243,3 +243,6 @@ layout: reveal
         A narrative featuring both human and nonhuman characters that conveys a moral or lesson through their actions and experiences.<br><br>These narratives can explore a wide array of themes, including etiquette, ethics, societal values, personal growth, and cultural traditions.
     </blockquote>
 </section>
+<section data-background-color="black">
+    <span class="lit">CRITICAL<br>MAKING</span>
+</section>
