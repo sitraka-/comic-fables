@@ -4,8 +4,19 @@
 
 [✓ Introduction Slides](Introduction.md)
 
-[✓ Timetable](#timetable)
+[✓ 1. A System Of Emergent Rituals](#1-a-system-of-emergent-rituals)
 
+[✓ 2. Ritual As Everyday Construct](#2-ritual-as-everyday-construct)
+
+[✓ 3. Sound As Integral To Object Function](#3-sound-as-integral-to-object-function)
+
+[✓ 4. Critical Fables In Objects and Rituals](#4-critical-fables-embedded-in-objects-and-rituals)
+
+[✓ 5. Collective Soundscape](#5-collective-soundscape)
+
+[✓ 6. Biome As Metaphor](#6-biome-as-metaphor)
+
+[✓ Timetable](#timetable)
 ---
 
 > (Designing) at the intersection of speculative fiction and anthropology, we find a sense of epistemological humility about the kind of worlds we could or should inhabit. Yet epistemological humility should not be confused with futility: possibilities and potentialities still matter. We do not know what we are capable of, and yet that need not keep us from the pursuit of what ifs. 
@@ -62,7 +73,7 @@ Each group is tasked with designing objects that play a pivotal role in these **
 
 Your focus is to create objects that **function** within the speculative world’s systems, helping to ground the rituals in a practical, everyday context.
 
-### 3. Sound as Intrinsic to Object Function
+### 3. Sound as Integral to Object Function
 
 In this project, sound should not be a separate, symbolic layer but an **essential part** of how the object operates. The sound produced by the objects could serve functional purposes (e.g., as alarms or feedback mechanisms) or shape the experiential aspects of the ritual itself.
 
@@ -86,7 +97,7 @@ The critical fables will emerge from the **interaction between the designed obje
 
 The "lesson" of the critical fable comes through **how the object functions in its world**, rather than through explicit storytelling or moralising.
 
-### 5. Collective Soundscape as Interaction Between Objects
+### 5. Collective Soundscape
 
 The final performance will feature a **collective soundscape**, created by the interaction of all the designed objects. Each object’s sound will respond to or affect the sounds of others, creating an emergent, collaborative sound environment. The focus is on how the objects **interact within a shared space**, rather than on separate, linear performances.
 
