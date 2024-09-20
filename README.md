@@ -3,6 +3,7 @@
 
 <div id="index">
 
+
 [✓ Introduction Slides](Introduction.md)
 
 [✓ 1. A System Of Emergent Rituals](#1-a-system-of-emergent-rituals)
@@ -18,6 +19,7 @@
 [✓ 6. Biome As Metaphor](#6-biome-as-metaphor)
 
 [✓ Timetable](#timetable)
+
 
 </div>
 
