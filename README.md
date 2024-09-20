@@ -9,7 +9,7 @@ Speculative ethnographies — crafting worlds from within
 
 ---
 
-### Speculative Ethnographies: *A System of Emergent Rituals*
+### A System of Emergent Rituals
 
 ---
 

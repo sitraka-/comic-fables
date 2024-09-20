@@ -61,6 +61,7 @@ h1 {
 }
 
 a {
+    font-family: 'IBM Plex Mono';
     color: aqua;
     text-decoration: none;
     font-weight: normal;
@@ -102,4 +103,11 @@ td {
     font-size: 12rem;
     /* color: aliceblue; */
     line-height: 0.6;
+}
+
+p {
+    max-width: 650px;
+    font-size: 0.9rem;
+    font-family: 'Vesper Libre';
+    line-height: 1.3;
 }
