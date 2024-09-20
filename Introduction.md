@@ -254,6 +254,6 @@ layout: reveal
 </section>
 <section data-background-color="black">
     <blockquote>
-        For this unit, we will collaborate in pairs to design and build electronic instruments and sonic tools that embody a fragment of a world. Together, we will craft a live, collective soundscape that captures the essence of this place, culminating in a public performance.
+        For this unit, we will collaborate in pairs to design and build electronic instruments and sonic tools that embody a fragment of a world.<br><br>Together, we will craft a live, collective soundscape that captures the essence of this place, culminating in a public performance.
     </blockquote>
 </section>
