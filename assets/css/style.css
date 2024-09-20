@@ -105,7 +105,8 @@ td {
     line-height: 0.6;
 }
 
-p {
+p,
+ul {
     max-width: 650px;
     font-size: 0.9rem;
     font-family: 'Vesper Libre';
