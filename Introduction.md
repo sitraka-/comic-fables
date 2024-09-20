@@ -196,7 +196,7 @@ layout: reveal
 <section data-background-color="black" data-background-opacity="1" data-state=sun>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/owCPrIEliZc?si=SHJCzKfPKFhV_bgr&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </section>
-<section>
+<section data-background-color="black">
     <h1 class="BT">Reverse Archaeology</h1>
 </section>
 <section data-background-color="#000000" data-state=header15>
