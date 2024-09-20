@@ -15,7 +15,7 @@ Design and build sonic objects that play a critical role in the speculative worl
 
 ---
 
-### 1. **A SYSTEM OF EMERGENT RITUALS**
+### 1. A SYSTEM OF EMERGENT RITUALS
 
 The speculative world you will explore is not defined by a single crisis or event but by the emergence of **new rituals** responding to shifting conditions. These rituals may not even be consciously recognised by the inhabitants as "rituals"; rather, they are everyday practices that organise life, from social etiquette to resource management.
 
@@ -30,7 +30,7 @@ The objects should reflect the **systems** of this world (social, political, or 
 
 ---
 
-### 2. **Ritual as Everyday Construct**
+### 2. Ritual as Everyday Construct
 
 Rituals, in this brief, extend beyond traditional ceremonies and include **any organised, habitual practice** that forms part of the world’s social fabric. These might be daily practices, such as energy harvesting, regular communication across colonies, or the management of scarce resources.
 
@@ -44,7 +44,7 @@ Your focus is to create objects that **function** within the speculative world�
 
 ---
 
-### 3. **Sound as Intrinsic to Object Function**
+### 3. Sound as Intrinsic to Object Function
 
 In this project, sound should not be a separate, symbolic layer but an **essential part** of how the object operates. The sound produced by the objects could serve functional purposes (e.g., as alarms or feedback mechanisms) or shape the experiential aspects of the ritual itself.
 
@@ -56,7 +56,7 @@ The challenge is to ensure that **sound is inseparable from the object’s funct
 
 ---
 
-### 4. **Critical Fables Embedded in Objects and Rituals**
+### 4. Critical Fables Embedded in Objects and Rituals
 
 The critical fables will emerge from the **interaction between the designed objects and the systems** they serve. As you design the objects, consider the underlying structures they reinforce or challenge, and what social or political lessons are embedded in their use.
 
@@ -72,7 +72,7 @@ The "lesson" of the critical fable comes through **how the object functions in i
 
 ---
 
-### 5. **Collective Soundscape as Interaction Between Objects**
+### 5. Collective Soundscape as Interaction Between Objects
 
 The final performance will feature a **collective soundscape**, created by the interaction of all the designed objects. Each object’s sound will respond to or affect the sounds of others, creating an emergent, collaborative sound environment. The focus is on how the objects **interact within a shared space**, rather than on separate, linear performances.
 
@@ -83,7 +83,7 @@ This collective performance will showcase the **interconnectedness of the system
 
 ---
 
-### 6. **Suggested Context for the Brief: The Adaptive World**
+### 6. Suggested Context for the Brief: The Adaptive World
 
 The speculative world you will work within is an **adaptive system**, constantly responding to new challenges—whether environmental, technological, or political. Rituals evolve to help inhabitants navigate these shifts, and the objects you design will play a key role in sustaining or disrupting these rituals.
 
