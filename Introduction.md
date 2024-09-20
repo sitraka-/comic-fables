@@ -6,6 +6,7 @@ layout: reveal
     <h1 class="NT" style="font-family:'picnic' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 13rem !important;" >sound<br>systems</h1>
 </section>
 <section>
+    <p>AM</p>
     <table class="reveal">
         <thead>
             <tr>
@@ -22,11 +23,47 @@ layout: reveal
                 <th class="tcol t30">12:30</th>
                 <th class="tcol t15">12:45</th>
                 <th class="tcol">13:00</th>
-                <th class="tcol t15">13:15</th>
-                <th class="tcol t30">13:30</th>
-                <th class="tcol t15">13:45</th>
-                <th class="tcol">14:00</th>
-                <th class="tcolt t15">14:15</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th class="trow">VVFA</th>
+                <th class="trow"></th>
+                <th class="trow"></th>
+                <th class="trow"></th>
+                <th class="trow">Digital Lab</th>
+                <th class="trow"></th>
+                <th class="trow">Nicholas Mortimer</th>
+                <th class="trow"></th>
+                <th class="trow"></th>
+                <th class="trow"></th>
+                <th class="trow"></th>
+                <th class="trow"></th>
+                <th class="trow">LUNCH</th>
+            </tr>
+            <tr>
+                <th class="trow">Briefing</th>
+                <th class="trow"></th>
+                <th class="trow"></th>
+                <th class="trow"></th>
+                <th class="trow">Meet Karsten Goodwin</th>
+                <th class="trow"></th>
+                <th class="trow">World of Sounds</th>
+                <th class="trow"></th>
+                <th class="trow"></th>
+                <th class="trow"></th>
+                <th class="trow"></th>
+                <th class="trow"></th>
+                <th class="trow">BREAK</th>
+            </tr>
+        </tbody>
+    </table>
+</section>
+<section>
+    <p>PM</p>
+    <table>
+        <thead>
+            <tr>
                 <th class="tcol t30">14:30</th>
                 <th class="tcol t15">14:45</th>
                 <th class="tcol">15:00</th>
@@ -56,25 +93,7 @@ layout: reveal
             </tr>
         </thead>
         <tbody>
-            <tr>
-                <th class="trow">VVFA</th>
-                <th class="trow"></th>
-                <th class="trow"></th>
-                <th class="trow"></th>
-                <th class="trow">Digital Lab</th>
-                <th class="trow"></th>
-                <th class="trow">Nicholas Mortimer</th>
-                <th class="trow"></th>
-                <th class="trow"></th>
-                <th class="trow"></th>
-                <th class="trow"></th>
-                <th class="trow"></th>
-                <th class="trow">LUNCH</th>
-                <th class="trow"></th>
-                <th class="trow"></th>
-                <th class="trow"></th>
-                <th class="trow"></th>
-                <th class="trow"></th>
+            <tr>  
                 <th class="trow">Andy Law</th>
                 <th class="trow"></th>
                 <th class="trow"></th>
@@ -103,25 +122,7 @@ layout: reveal
                 <th class="trow"></th>
                 <th class="trow"></th>
             </tr>
-            <tr>
-                <th class="trow">Briefing</th>
-                <th class="trow"></th>
-                <th class="trow"></th>
-                <th class="trow"></th>
-                <th class="trow">Meet Karsten Goodwin</th>
-                <th class="trow"></th>
-                <th class="trow">World of Sounds</th>
-                <th class="trow"></th>
-                <th class="trow"></th>
-                <th class="trow"></th>
-                <th class="trow"></th>
-                <th class="trow"></th>
-                <th class="trow">BREAK</th>
-                <th class="trow"></th>
-                <th class="trow"></th>
-                <th class="trow"></th>
-                <th class="trow"></th>
-                <th class="trow"></th>
+            <tr>              
                 <th class="trow">On Sound Sources</th>
                 <th class="trow"></th>
                 <th class="trow"></th>
