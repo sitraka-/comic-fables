@@ -13,6 +13,12 @@
         url("../../assets/fonts/HND/HelveticaNowDisplay-XBlk.woff") format("woff");
 }
 
+@font-face {
+    font-family: "lithops";
+    src: url("../../assets/fonts/Lithops/Lithops-Regular.otf") format("opentype"),
+        url("../../assets/fonts/Lithops/Lithops-Regular.woff") format("woff");
+}
+
 body {
     background-color: blueviolet;
     color: aliceblue;
@@ -89,4 +95,10 @@ td {
 
 .bott {
     border-top: dashed thin !important;
+}
+
+.lit {
+    font-family: 'Lithops';
+    font-size: 12rem;
+    color: "chartreuse";
 }

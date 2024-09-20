@@ -201,11 +201,11 @@ layout: reveal
 </section>
 
 <section data-background-image="assets/imgs/pokeys.jpg" data-state=header18>
-<style>.header18 header:after { content: "Pokey's, 1955"; }</style>
+<style>.header18 header:after { content: "Pokey's (1955)"; }</style>
 </section>
 
-<section data-state=header19>
-    <style>.header19 header:after { content: "/"; }</style>
+<section data-state=noidea>
+    <style>.noidea header:after { content: "/"; }</style>
     <img src="assets/imgs/drivecine.jpg" style="max-height: 65vh;" />
 </section>
 
@@ -214,10 +214,13 @@ layout: reveal
 </section>
 
 <section data-background-image="assets/imgs/boring.png" data-state=header21>
-<style>.header21 header:after { content: 'The Boring Company'; }</style>
+<style>.header21 header:after { content: 'The Boring Company (2017)'; }</style>
 </section>
 
 <section data-state=header19>
     <style>.header19 header:after { content: "\\'\\'≠.\\ (2015)"; }</style>
     <img src="assets/imgs/medvsproc.jpg" />
+</section>
+<section>
+    <span class="lit" style="color:#FFFFFF;">CRITICAL<br>FABLES</span>
 </section>
