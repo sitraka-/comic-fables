@@ -55,7 +55,6 @@ layout: reveal
             <tr>              
                 <th class="trow">On Sound Sources</th>
                 <th class="trow">Sound Design</th>
-                <th class="trow">BREAK</th>
                 <th class="trow">Sound Artist</th>
                 <th class="trow">Program</th>
                 <th class="trow">DJ Set</th>
