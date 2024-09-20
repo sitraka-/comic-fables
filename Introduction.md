@@ -23,11 +23,11 @@ layout: reveal
                 <th class="trow">Nicholas Mortimer</th>
                 <th class="trow">Lunch</th>
             </tr>
-            <tr>
-                <th class="trow bott">Briefing</th>
-                <th class="trow bott">Meet Karsten Goodwin</th>
-                <th class="trow bott">World of Sounds</th>
-                <th class="trow bott">Break</th>
+            <tr class="bott">
+                <th class="trow">Briefing</th>
+                <th class="trow">Meet Karsten Goodwin</th>
+                <th class="trow">World of Sounds</th>
+                <th class="trow">Break</th>
             </tr>
         </tbody>
     </table>
