@@ -38,7 +38,7 @@ layout: reveal
         <thead>
             <tr>
                 <th class="tcol t30">14:30</th>
-                <th class="tcol t15">15:15</th>
+                <th class="tcol">15:15</th>
                 <th class="tcol t30">16:30</th>
                 <th class="tcol">18:00</th>
                 <th class="tcol">19:00</th>
