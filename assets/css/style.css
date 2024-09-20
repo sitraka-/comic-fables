@@ -115,7 +115,7 @@ ul {
 }
 
 ul {
-    max-width: calc(600px - 1em);
+    max-width: calc(600px - 3em);
 }
 
 h3 {
