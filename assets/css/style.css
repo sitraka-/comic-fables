@@ -126,11 +126,13 @@ h3 {
     border-bottom: solid thin;
     border-top: solid thin;
     padding: 1em 0;
+    max-width: 600px;
 }
 
 hr {
     border: none;
     border-bottom: dotted thin;
+    max-width: 600px;
 }
 
 blockquote {
@@ -149,9 +151,9 @@ blockquote:first-of-type {
 @media only screen and (min-width: 1000px) {
     blockquote:first-of-type {
         position: fixed;
-        left: 50%;
-        top: 1em;
-        border-left: dotted thin;
+        left: 0;
+        top: -1em;
+        /* border-left: dotted thin; */
     }
 
     hr:first-of-type {
