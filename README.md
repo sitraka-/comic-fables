@@ -1,7 +1,7 @@
 # cosmic rites X fabled soundscapes
 ### SPECULATIVE ETHNOGRAPHIES — CRAFTING WORLDS FROM WITHIN
 
-<div id="index">
+<blockquote id="index">
 
 
 [✓ Introduction Slides](Introduction.md)
@@ -21,7 +21,8 @@
 [✓ Timetable](#timetable)
 
 
-</div>
+</blockquote>
+
 
 ---
 
