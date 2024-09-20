@@ -113,6 +113,6 @@ p {
 }
 
 strong {
-    font-family: 'IBM Plex Mono';
-    text-transform: uppercase;
+    /* font-family: 'IBM Plex Mono';
+    text-transform: uppercase; */
 }

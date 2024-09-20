@@ -1,5 +1,5 @@
 # cosmic rites X fabled soundscapes
-**Speculative ethnographies — crafting worlds from within**
+**SPECULATIVE ETHNOGRAPHIES — CRAFTING WORLDS FROM WITHIN**
 
 ---
 
@@ -15,7 +15,7 @@ Design and build sonic objects that play a critical role in the speculative worl
 
 ---
 
-### 1. **A System of Emergent Rituals**
+### 1. **A SYSTEM OF EMERGENT RITUALS**
 
 The speculative world you will explore is not defined by a single crisis or event but by the emergence of **new rituals** responding to shifting conditions. These rituals may not even be consciously recognised by the inhabitants as "rituals"; rather, they are everyday practices that organise life, from social etiquette to resource management.
 
