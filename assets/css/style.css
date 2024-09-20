@@ -82,6 +82,10 @@ td {
     font-weight: normal !important;
 }
 
+.trow {
+    border-left: solid thin;
+}
+
 .bott {
     border-top: dashed thin !important;
 }
