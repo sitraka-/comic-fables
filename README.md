@@ -10,7 +10,9 @@
 
 > (Designing) at the intersection of speculative fiction and anthropology, we find a sense of epistemological humility about the kind of worlds we could or should inhabit. Yet epistemological humility should not be confused with futility: possibilities and potentialities still matter. We do not know what we are capable of, and yet that need not keep us from the pursuit of what ifs. 
 > 
-> Through the imaginative interpellations of speculative fiction, (we) gravitate toward new localities and means of presence: ecological, technological, Afro-futuristic, (African-futuristic, Chicana-futuristic, and so on). Facing the imminent prospect of both disaster and discovery, they call us to resist despair and to craft tangible ways of shaping and repairing the worlds we still hope for.
+> Through the imaginative interpellations of speculative fiction, (we) gravitate toward new localities and means of presence: ecological, technological, (social, political), Afro-futuristic, (African-futuristic, Indiginous-futuristic, Latinx-futuristic, Chicana-futuristic, Sinofuturistic, Japanese-futuristic-cyberpunk, Pacific-futuristic,  and so on). 
+> 
+> Facing the imminent prospect of both disaster and discovery, they call us to resist despair and to craft tangible ways of shaping and repairing the worlds we still hope for.
 
 Anderson, R. et al. (2018, December 18). Speculative Anthropologies. Society for Cultural Anthropology. ([https://culanth.org/fieldsights/series/speculative-anthropologies](https://culanth.org/fieldsights/series/speculative-anthropologies))
 
@@ -24,7 +26,7 @@ The final outcome will be a collective soundscape performance, telling framgment
 
 ### 1. A SYSTEM OF EMERGENT RITUALS
 
-The speculative world you will explore is not defined by a single crisis or event but by the emergence of **new rituals** responding to shifting conditions. These rituals may not even be consciously recognised by the inhabitants as "rituals"; rather, they are everyday practices that organise life, from social etiquette to resource management.
+The world you will explore is not defined by a single crisis or event but by the emergence of **new rituals** responding to shifting conditions. These rituals may not even be consciously recognised by the inhabitants as "rituals"; rather, they are everyday practices that organise life, from social etiquette to resource management.
 
 Your task is to design **objects** that facilitate or mediate these emerging rituals. These artefacts should be practical and integral to the functioning of the speculative world’s systems.
 
