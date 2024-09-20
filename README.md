@@ -9,17 +9,13 @@
 
 ---
 
-### A System of Emergent Rituals
-
----
-
 **Objective**: 
- 
+
 Design and build sonic objects that play a critical role in the speculative world you are tasked to explore. These objects should mediate or facilitate newly emerging rituals shaped by the world’s socio-political, environmental, or technological structures. The final outcome will be a collective soundscape performance, showcasing how these objects interact within this speculative world.
 
 ---
 
-### 1. **The World: A System of Emergent Rituals**
+### 1. **A System of Emergent Rituals**
 
 The speculative world you will explore is not defined by a single crisis or event but by the emergence of **new rituals** responding to shifting conditions. These rituals may not even be consciously recognised by the inhabitants as "rituals"; rather, they are everyday practices that organise life, from social etiquette to resource management.
 
