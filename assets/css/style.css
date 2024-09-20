@@ -153,4 +153,8 @@ blockquote:first-of-type {
         top: 1em;
         border-left: dotted thin;
     }
+
+    hr:first-of-type {
+        visibility: hidden;
+    }
 }
