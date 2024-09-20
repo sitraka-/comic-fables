@@ -240,6 +240,6 @@ layout: reveal
 </section>
 <section>
     <blockquote>
-        A fictional narrative featuring both human and nonhuman characters that conveys a moral or lesson through their actions and experiences. <br><br>These narratives can explore a wide array of themes, including etiquette, ethics, societal values, personal growth, and cultural traditions.
+        A narrative featuring both human and nonhuman characters that conveys a moral or lesson through their actions and experiences.<br><br>These narratives can explore a wide array of themes, including etiquette, ethics, societal values, personal growth, and cultural traditions.
     </blockquote>
 </section>
