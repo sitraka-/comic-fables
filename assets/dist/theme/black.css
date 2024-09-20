@@ -112,7 +112,7 @@ header {
   font-size: 1.5rem;
   color: var(--r-link-color);
   font-family: var(--r-heading-font);
-  font-weight: var(--r-heading-font-weight);
+  /* font-weight: var(--r-heading-font-weight); */
   line-height: var(--r-heading-line-height);
   letter-spacing: var(--r-heading-letter-spacing);
   text-transform: uppercase;

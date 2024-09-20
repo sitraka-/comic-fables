@@ -6,7 +6,7 @@ layout: reveal
     <h1 class="NT" style="font-family:'picnic' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 13rem !important;" >sound<br>systems</h1>
 </section>
 <section>
-    <p style="font-family:'Major Mono Display'">AM</p>
+    <p style="font-family:'Major Mono Display'; font-size:1.5rem;">AM</p>
     <table class="reveal sem">
         <thead>
             <tr>
@@ -33,7 +33,7 @@ layout: reveal
     </table>
 </section>
 <section>
-    <p style="font-family:'Major Mono Display'">PM</p>
+    <p style="font-family:'Major Mono Display'; font-size:1.5rem;">PM</p>
     <table class="reveal sem">
         <thead>
             <tr>
@@ -145,6 +145,10 @@ layout: reveal
 <section data-state=header2>
     <style>.header2 header:after { content: "MAID at the Yard Theatre (2023), Cosmic Fables"; }</style>
     <iframe width="1080" height="512" src="https://www.youtube.com/embed/lkRSJQHlAR0?si=rPOE144y3aAFSK9E&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</section>
+<section data-state=ik>
+    <style>.ik header:after { content: "MAID at Ikelctik (2022), Sound Systems"; }</style>
+    <iframe width="1080" height="512" src="https://www.youtube.com/embed/60uAhggLGOM?si=kkXBncU7AbfT4hqk&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </section>
 <section data-background-image="assets/imgs/arnem_1.jpg" data-state=arnem>
     <style>.arnem header:after { content: "Artez, Product Design, 2024"; }</style>
