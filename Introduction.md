@@ -211,6 +211,10 @@ layout: reveal
 <style>.header17 header:after { content: "Shuttle Proposal, Monorail (1954), Los Angeles"; }</style>
 </section>
 
+<section data-background-image="assets/imgs/wfrr.jpg" data-state=wfrr>
+<style>.wfrr header:after { content: "Who Framed Roger Rabbit (1988), Robert Zemeckis"; }</style>
+</section>
+
 <section data-background-image="assets/imgs/pokeys.jpg" data-state=header18>
 <style>.header18 header:after { content: "Pokey's (1955)"; }</style>
 </section>
