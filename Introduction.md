@@ -6,7 +6,7 @@ layout: reveal
     <h1 class="NT" style="font-family:'picnic' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 13rem !important;" >sound<br>systems</h1>
 </section>
 <section>
-    <p>AM</p>
+    <p style="font-family:'Major Mono Display'">AM</p>
     <table class="reveal sem">
         <thead>
             <tr>
@@ -33,8 +33,8 @@ layout: reveal
     </table>
 </section>
 <section>
-    <p>PM</p>
-    <table>
+    <p style="font-family:'Major Mono Display'">PM</p>
+    <table class="reveal sem">
         <thead>
             <tr>
                 <th class="tcol t30">14:30</th>
