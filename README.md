@@ -33,7 +33,7 @@ The objects you create are not just artefacts; they are catalysts for thinking. 
 
 **Objective**: 
 
-Design and build sonic objects that play a critical role in the speculative world you are tasked to explore. These objects should mediate or facilitate newly emerging rituals shaped by the world’s socio-political, environmental, or technological structures. 
+Design and build sonic objects that play a critical role in the world you are tasked to explore. These objects should mediate or facilitate newly emerging rituals shaped by the world’s socio-political, environmental, or technological structures. 
 
 The final outcome will be a collective soundscape performance, telling framgments of a world by showcasing how these objects interact. This performance, akin to a devised play, will not tell a linear story but will instead present an exploration of critical ideas.
 
