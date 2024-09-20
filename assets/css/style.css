@@ -67,3 +67,11 @@ th {
 td {
     padding-right: 1rem;
 }
+
+.tcol {
+    border-left: solid thin;
+}
+
+.t15 {
+    border-left: dashed thin;
+}
