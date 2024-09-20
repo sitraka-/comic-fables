@@ -17,7 +17,7 @@
 Anderson, R. et al. (2018, December 18). Speculative Anthropologies. Society for Cultural Anthropology. ([https://culanth.org/fieldsights/series/speculative-anthropologies](https://culanth.org/fieldsights/series/speculative-anthropologies))
 
 
-### 0. BACKGROUND
+### BACKGROUND
 
 **Overview**:
 
