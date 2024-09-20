@@ -1,7 +1,6 @@
 # cosmic rites X fabled soundscapes
 ### SPECULATIVE ETHNOGRAPHIES — CRAFTING WORLDS FROM WITHIN
 
----
 
 [✓ Introduction Slides](Introduction.md)
 

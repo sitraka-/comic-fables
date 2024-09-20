@@ -22,7 +22,7 @@
 body {
     background-color: blueviolet;
     color: aliceblue;
-
+    padding: 1em;
     font-family: 'IBM Plex Mono';
 }
 
