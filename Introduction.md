@@ -8,30 +8,146 @@ layout: reveal
 <section>
     <thead>
         <tr>
-            <th class="tcol">TIME</th>
-            <th class="tcol">NAME</th>
-            <th class="tcol">DESC</th>
+            <th class="tcol">10:00</th>
+            <th class="tcol t15">10:15</th>
+            <th class="tcol t30">10:30</th>
+            <th class="tcol t15">10:45</th>
+            <th class="tcol">11:00</th>
+            <th class="tcol t15">11:15</th>
+            <th class="tcol t30">11:30</th>
+            <th class="tcol t15">11:45</th>
+            <th class="tcol">12:00</th>
+            <th class="tcol t15">12:15</th>
+            <th class="tcol t30">12:30</th>
+            <th class="tcol t15">12:45</th>
+            <th class="tcol">13:00</th>
+            <th class="tcol t15">13:15</th>
+            <th class="tcol t30">13:30</th>
+            <th class="tcol t15">13:45</th>
+            <th class="tcol">14:00</th>
+            <th class="tcolt t15">14:15</th>
+            <th class="tcol t30">14:30</th>
+            <th class="tcol t15">14:45</th>
+            <th class="tcol">15:00</th>
+            <th class="tcol t15">15:15</th>
+            <th class="tcol t30">15:30</th>
+            <th class="tcol t15">15:45</th>
+            <th class="tcol">16:00</th>
+            <th class="tcol t15">16:15</th>
+            <th class="tcol t30">16:30</th>
+            <th class="tcol t15">16:45</th>
+            <th class="tcol">17:00</th>
+            <th class="tcol t15">17:15</th>
+            <th class="tcol t30">17:30</th>
+            <th class="tcol t15">17:45</th>
+            <th class="tcol">18:00</th>
+            <th class="tcol t15">18:15</th>
+            <th class="tcol t30">18:30</th>
+            <th class="tcol t15">18:45</th>
+            <th class="tcol">19:00</th>
+            <th class="tcol t15">19:15</th>
+            <th class="tcol t30">19:30</th>
+            <th class="tcol t15">19:45</th>
+            <th class="tcol">20:00</th>
+            <th class="tcol t15">20:15</th>
+            <th class="tcol t30">20:30</th>
+            <th class="tcol t15">20:45</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <th class="trow">10:00</th>
             <th class="trow">VVFA</th>
-            <th class="trow">Briefing</th>
-        </tr>
-        <tr>
-            <th class="trow">11:00</th>
+            <th class="trow"></th>
+            <th class="trow"></th>
+            <th class="trow"></th>
             <th class="trow">Digital Lab</th>
-            <th class="trow">Meet Karsten Goodwin</th>
-        </tr>
-        <tr>
-            <th class="trow">11:30</th>
+            <th class="trow"></th>
             <th class="trow">Nicholas Mortimer</th>
-            <th class="trow">Worlds Of Sound</th>
+            <th class="trow"></th>
+            <th class="trow"></th>
+            <th class="trow"></th>
+            <th class="trow"></th>
+            <th class="trow"></th>
+            <th class="trow">LUNCH</th>
+            <th class="trow"></th>
+            <th class="trow"></th>
+            <th class="trow"></th>
+            <th class="trow"></th>
+            <th class="trow"></th>
+            <th class="trow">Andy Law</th>
+            <th class="trow"></th>
+            <th class="trow"></th>
+            <th class="trow">Dave Meckin</th>
+            <th class="trow"></th>
+            <th class="trow"></th>
+            <th class="trow"></th>
+            <th class="trow">BREAK</th>
+            <th class="trow">Yuri Suzuki</th>
+            <th class="trow"></th>
+            <th class="trow"></th>
+            <th class="trow"></th>
+            <th class="trow"></th>
+            <th class="trow"></th>
+            <th class="trow">Nick Rhodes</th>
+            <th class="trow"></th>
+            <th class="trow"></th>
+            <th class="trow"></th>
+            <th class="trow"></th>
+            <th class="trow">Yuri Suzuki</th>
+            <th class="trow"></th>
+            <th class="trow"></th>
+            <th class="trow"></th>
+            <th class="trow"></th>
+            <th class="trow"></th>
+            <th class="trow"></th>
+            <th class="trow"></th>
         </tr>
         <tr>
-            <th class="trow">13:00</th>
-            <th class="trow">LUNCHr</th>
+            <th class="trow">Briefing</th>
+            <th class="trow"></th>
+            <th class="trow"></th>
+            <th class="trow"></th>
+            <th class="trow">Meet Karsten Goodwin</th>
+            <th class="trow"></th>
+            <th class="trow">World of Sounds</th>
+            <th class="trow"></th>
+            <th class="trow"></th>
+            <th class="trow"></th>
+            <th class="trow"></th>
+            <th class="trow"></th>
+            <th class="trow">BREAK</th>
+            <th class="trow"></th>
+            <th class="trow"></th>
+            <th class="trow"></th>
+            <th class="trow"></th>
+            <th class="trow"></th>
+            <th class="trow">Andy Law</th>
+            <th class="trow"></th>
+            <th class="trow"></th>
+            <th class="trow">Dave Meckin</th>
+            <th class="trow"></th>
+            <th class="trow"></th>
+            <th class="trow"></th>
+            <th class="trow">BREAK</th>
+            <th class="trow">Yuri Suzuki</th>
+            <th class="trow"></th>
+            <th class="trow"></th>
+            <th class="trow"></th>
+            <th class="trow"></th>
+            <th class="trow"></th>
+            <th class="trow">Nick Rhodes</th>
+            <th class="trow"></th>
+            <th class="trow"></th>
+            <th class="trow"></th>
+            <th class="trow"></th>
+            <th class="trow">Yuri Suzuki</th>
+            <th class="trow"></th>
+            <th class="trow"></th>
+            <th class="trow"></th>
+            <th class="trow"></th>
+            <th class="trow"></th>
+            <th class="trow"></th>
+            <th class="trow"></th>
         </tr>
     </tbody>
 </section>
