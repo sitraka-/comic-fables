@@ -13,7 +13,8 @@
 
 ---
 
-**Objective**:  
+**Objective**: 
+ 
 Design and build sonic objects that play a critical role in the speculative world you are tasked to explore. These objects should mediate or facilitate newly emerging rituals shaped by the world’s socio-political, environmental, or technological structures. The final outcome will be a collective soundscape performance, showcasing how these objects interact within this speculative world.
 
 ---
