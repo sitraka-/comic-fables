@@ -246,3 +246,10 @@ layout: reveal
 <section data-background-color="black">
     <span class="lit">CRITICAL<br>MAKING</span>
 </section>
+<section data-background-color="black">
+    <blockquote>
+        Thinking is Making and Making is thinking<br><br>
+        The process of creation is not about imposing pre-formed ideas onto materials, but rather about a continuous "correspondence" where both the maker and the material influence and transform one another. — <em>Paraphrasing Tom Ingold</em><br><br>
+        For this unit, we will collaborate in pairs to design and build electronic instruments and sonic tools that embody a fragment of a world. Together, we will craft a live, collective soundscape that captures the essence of this place, culminating in a public performance.
+    </blockquote>
+</section>
