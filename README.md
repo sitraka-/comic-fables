@@ -1,6 +1,7 @@
 # cosmic rites X fabled soundscapes
 ### SPECULATIVE ETHNOGRAPHIES — CRAFTING WORLDS FROM WITHIN
 
+<div id="index">
 
 [✓ Introduction Slides](Introduction.md)
 
@@ -17,6 +18,8 @@
 [✓ 6. Biome As Metaphor](#6-biome-as-metaphor)
 
 [✓ Timetable](#timetable)
+
+</div>
 
 ---
 
