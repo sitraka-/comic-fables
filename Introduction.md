@@ -177,7 +177,7 @@ layout: reveal
     <iframe width="100%" height="600" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/129030648&color=%23f700ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nasa" title="NASA" target="_blank" style="color: #cccccc; text-decoration: none;">NASA</a> · <a href="https://soundcloud.com/nasa/sets/golden-record-sounds-of" title="Golden Record: Sounds of Earth" target="_blank" style="color: #cccccc; text-decoration: none;">Golden Record: Sounds of Earth</a></div>
 </section>
 <section data-background-image="assets/imgs/sitp_1.jpg" data-background-opacity="1" data-state=sun>
-    <style>.sun header:after { content: "Space Is The Place, (1974), Sun Ra & John Coney"; }</style>
+    <style>.sun header:after { content: "Space Is The Place (1974), Sun Ra & John Coney"; }</style>
 </section>
 <section data-background-image="assets/imgs/sitp_1.jpg" data-background-opacity="1" data-state=sun>
     <iframe width="700" height="500" src="https://www.youtube.com/embed/Z8nppTSY-Rs?si=Pk8KgFlikTPCvXYa&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -189,10 +189,35 @@ layout: reveal
     <h1 class="BT">Reverse Archaeology</h1>
 </section>
 <section data-background-color="#000000" data-state=header15>
-<style>.header15 header:after { content: "La Télévision, œil de demain — J.K Raymond Millet, 1947"; }</style>
+<style>.header15 header:after { content: "La Télévision, œil de demain (1947), J. K. Raymond Millet"; }</style>
     <iframe width="700" height="500" src="https://www.youtube.com/embed/ZKfOcR7Qbu4?si=PY1-X-VjGGxpOJds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </section>
 <section data-background-color="#000000" data-state=header16>
-<style>.header16 header:after { content: "1999 A.D. — Lee Maden, 1967"; }</style>
+<style>.header16 header:after { content: "1999 A.D. (1967), Lee Maden"; }</style>
     <iframe width="700" height="500" src="https://www.youtube.com/embed/Z0lArfzw59c?si=ygsn0G2ROT8yxRpn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</section>
+<section data-background-image="assets/imgs/monrail.jpg" data-state=header17>
+<style>.header17 header:after { content: "Shuttle Proposal, Monorail (1954), Los Angeles"; }</style>
+</section>
+
+<section data-background-image="assets/imgs/pokeys.jpg" data-state=header18>
+<style>.header18 header:after { content: "Pokey's, 1955"; }</style>
+</section>
+
+<section data-state=header19>
+    <style>.header19 header:after { content: "/"; }</style>
+    <img src="assets/imgs/drivecine.jpg" style="max-height: 65vh;" />
+</section>
+
+<section data-background-image="assets/imgs/traffic.jpg" data-state=header20>
+<style>.header20 header:after { content: '“WORST traffic in the world, for the 6th year straight” (2018), abc7'; }</style>
+</section>
+
+<section data-background-image="assets/imgs/boring.png" data-state=header21>
+<style>.header21 header:after { content: 'The Boring Company'; }</style>
+</section>
+
+<section data-state=header19>
+    <style>.header19 header:after { content: "\\'\\'≠.\\ (2015)"; }</style>
+    <img src="assets/imgs/medvsproc.jpg" />
 </section>
