@@ -91,17 +91,17 @@ The "lesson" of the critical fable comes through **how the object functions in i
 The final performance will feature a **collective soundscape**, created by the interaction of all the designed objects. Each object’s sound will respond to or affect the sounds of others, creating an emergent, collaborative sound environment. The focus is on how the objects **interact within a shared space**, rather than on separate, linear performances.
 
 **Examples**:
-- One group’s **sonic tool** might emit frequencies that alter another group’s **environmental sensor**, reflecting how communication systems affect environmental monitoring in the speculative world.
+- One group’s **sonic tool** might emit frequencies that alter another group’s **environmental sensor**.
 
 This collective performance will showcase the **interconnectedness of the systems** through sound, without relying on narrative. The goal is to explore how these rituals and systems function together in real time, as part of a cohesive world.
 
-### 6. Suggested Context for the Brief: The Adaptive World
+### 6. BIOME AS METAPHOR
 
 The speculative world you will work within is an **adaptive system**, constantly responding to new challenges—whether environmental, technological, or political. Rituals evolve to help inhabitants navigate these shifts, and the objects you design will play a key role in sustaining or disrupting these rituals.
 
-The challenge is to design objects that both **fit within** this world and **reflect the larger structures** that shape it. The sound your objects produce will help reveal the complexity of these systems, offering insight into how they function and evolve.
+The challenge is to design objects that both **fit within** this world and **reflect the larger structures** that shape it. 
 
-### Conclusion
+### SUMMARY
 
 Your task is to create objects that are integral to the emergent rituals of this speculative world. These objects should not only function practically within the world’s systems but also engage with critical issues embedded in the world’s socio-political, environmental, or technological structures. The final collective performance will offer an immersive experience, where the interactions between objects and their sounds form a dynamic, evolving soundscape that reflects the speculative world as a whole.
 
