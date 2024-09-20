@@ -107,7 +107,7 @@ td {
 
 p,
 ul {
-    max-width: 650px;
+    max-width: 600px;
     font-size: 0.9rem;
     font-family: 'Vesper Libre';
     line-height: 1.3;
@@ -121,4 +121,9 @@ h3 {
 
 strong {
     text-decoration: underline;
+}
+
+hr {
+    border: none;
+    border-bottom: dotted thin;
 }
