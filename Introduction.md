@@ -185,7 +185,7 @@ layout: reveal
 <section data-background-image="assets/imgs/cs.png" data-state=cs>
     <style>.cs header:after { content: "Codex Seraphinianus (1981), Luigi Serafini"; }</style>
 </section>
-<section data-background-image="assets/imgs/cs_2.jpg_" data-state=cs>
+<section data-background-image="assets/imgs/cs_2.jpg" data-state=cs>
 </section>
 <section data-background-image="assets/imgs/sitp_1.jpg" data-background-opacity="1" data-state=sun>
     <style>.sun header:after { content: "Space Is The Place (1974), Sun Ra & John Coney"; }</style>
