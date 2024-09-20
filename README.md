@@ -2,6 +2,7 @@
 ### SPECULATIVE ETHNOGRAPHIES — CRAFTING WORLDS FROM WITHIN
 
 
+> ### INDEX 
 > [✓ Introduction Slides](Introduction.md)
 > 
 > [✓ 1. A System Of Emergent Rituals](#1-a-system-of-emergent-rituals)
