@@ -39,7 +39,6 @@ layout: reveal
             <tr>
                 <th class="tcol t30">14:30</th>
                 <th class="tcol t15">15:15</th>
-                <th class="tcol t15">16:15</th>
                 <th class="tcol t30">16:30</th>
                 <th class="tcol">18:00</th>
                 <th class="tcol">19:00</th>
@@ -49,7 +48,6 @@ layout: reveal
             <tr>  
                 <th class="trow">Andy Law</th>
                 <th class="trow">Dave Meckin</th>
-                <th class="trow">BREAK</th>
                 <th class="trow">Yuri Suzuki</th>
                 <th class="trow">Nick Rhodes</th>
                 <th class="trow">Yuri Suzuki</th>
