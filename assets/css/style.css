@@ -80,6 +80,7 @@ td {
     font-size: 1rem !important;
     font-family: 'Major Mono Display' !important;
     font-weight: normal !important;
+    table-layout: fixed;
 }
 
 .trow {
