@@ -75,3 +75,13 @@ td {
 .t15 {
     border-left: dashed thin;
 }
+
+.sem {
+    font-size: 1rem !important;
+    font-family: 'Major Mono Display' !important;
+    font-weight: normal !important;
+}
+
+.bott {
+    border-top: dashed thin !important;
+}

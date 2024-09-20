@@ -7,7 +7,7 @@ layout: reveal
 </section>
 <section>
     <p>AM</p>
-    <table class="reveal">
+    <table class="reveal sem">
         <thead>
             <tr>
                 <th class="tcol">10:00</th>
@@ -21,13 +21,13 @@ layout: reveal
                 <th class="trow">VVFA</th>
                 <th class="trow">Digital Lab</th>
                 <th class="trow">Nicholas Mortimer</th>
-                <th class="trow">LUNCH</th>
+                <th class="trow">Lunch</th>
             </tr>
             <tr>
-                <th class="trow">Briefing</th>
-                <th class="trow">Meet Karsten Goodwin</th>
-                <th class="trow">World of Sounds</th>
-                <th class="trow">BREAK</th>
+                <th class="trow bott">Briefing</th>
+                <th class="trow bott">Meet Karsten Goodwin</th>
+                <th class="trow bott">World of Sounds</th>
+                <th class="trow bott">Break</th>
             </tr>
         </tbody>
     </table>
@@ -38,91 +38,29 @@ layout: reveal
         <thead>
             <tr>
                 <th class="tcol t30">14:30</th>
-                <th class="tcol t15">14:45</th>
-                <th class="tcol">15:00</th>
                 <th class="tcol t15">15:15</th>
-                <th class="tcol t30">15:30</th>
-                <th class="tcol t15">15:45</th>
-                <th class="tcol">16:00</th>
                 <th class="tcol t15">16:15</th>
                 <th class="tcol t30">16:30</th>
-                <th class="tcol t15">16:45</th>
-                <th class="tcol">17:00</th>
-                <th class="tcol t15">17:15</th>
-                <th class="tcol t30">17:30</th>
-                <th class="tcol t15">17:45</th>
                 <th class="tcol">18:00</th>
-                <th class="tcol t15">18:15</th>
-                <th class="tcol t30">18:30</th>
-                <th class="tcol t15">18:45</th>
                 <th class="tcol">19:00</th>
-                <th class="tcol t15">19:15</th>
-                <th class="tcol t30">19:30</th>
-                <th class="tcol t15">19:45</th>
-                <th class="tcol">20:00</th>
-                <th class="tcol t15">20:15</th>
-                <th class="tcol t30">20:30</th>
-                <th class="tcol t15">20:45</th>
             </tr>
         </thead>
         <tbody>
             <tr>  
                 <th class="trow">Andy Law</th>
-                <th class="trow"></th>
-                <th class="trow"></th>
                 <th class="trow">Dave Meckin</th>
-                <th class="trow"></th>
-                <th class="trow"></th>
-                <th class="trow"></th>
                 <th class="trow">BREAK</th>
                 <th class="trow">Yuri Suzuki</th>
-                <th class="trow"></th>
-                <th class="trow"></th>
-                <th class="trow"></th>
-                <th class="trow"></th>
-                <th class="trow"></th>
                 <th class="trow">Nick Rhodes</th>
-                <th class="trow"></th>
-                <th class="trow"></th>
-                <th class="trow"></th>
-                <th class="trow"></th>
                 <th class="trow">Yuri Suzuki</th>
-                <th class="trow"></th>
-                <th class="trow"></th>
-                <th class="trow"></th>
-                <th class="trow"></th>
-                <th class="trow"></th>
-                <th class="trow"></th>
-                <th class="trow"></th>
             </tr>
             <tr>              
                 <th class="trow">On Sound Sources</th>
-                <th class="trow"></th>
-                <th class="trow"></th>
                 <th class="trow">Sound Design</th>
-                <th class="trow"></th>
-                <th class="trow"></th>
-                <th class="trow"></th>
                 <th class="trow">BREAK</th>
                 <th class="trow">Sound Artist</th>
-                <th class="trow"></th>
-                <th class="trow"></th>
-                <th class="trow"></th>
-                <th class="trow"></th>
-                <th class="trow"></th>
                 <th class="trow">Program</th>
-                <th class="trow"></th>
-                <th class="trow"></th>
-                <th class="trow"></th>
-                <th class="trow"></th>
                 <th class="trow">DJ Set</th>
-                <th class="trow"></th>
-                <th class="trow"></th>
-                <th class="trow"></th>
-                <th class="trow"></th>
-                <th class="trow"></th>
-                <th class="trow"></th>
-                <th class="trow"></th>
             </tr>
         </tbody>
     </table>
