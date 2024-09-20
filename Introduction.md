@@ -25,7 +25,7 @@ layout: reveal
             </tr>
             <tr class="bott">
                 <th class="trow">Briefing</th>
-                <th class="trow">Meet Karsten Goodwin</th>
+                <th class="trow">Meet Karsten X Felix</th>
                 <th class="trow">World of Sounds</th>
                 <th class="trow">Break</th>
             </tr>
