@@ -5,6 +5,36 @@ layout: reveal
 <section>
     <h1 class="NT" style="font-family:'picnic' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 13rem !important;" >sound<br>systems</h1>
 </section>
+<section>
+    <thead>
+        <tr>
+            <th class="tcol">TIME</th>
+            <th class="tcol">NAME</th>
+            <th class="tcol">DESC</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th class="trow">10:00</th>
+            <th class="trow">VVFA</th>
+            <th class="trow">Briefing</th>
+        </tr>
+        <tr>
+            <th class="trow">11:00</th>
+            <th class="trow">Digital Lab</th>
+            <th class="trow">Meet Karsten Goodwin</th>
+        </tr>
+        <tr>
+            <th class="trow">11:30</th>
+            <th class="trow">Nicholas Mortimer</th>
+            <th class="trow">Worlds Of Sound</th>
+        </tr>
+        <tr>
+            <th class="trow">13:00</th>
+            <th class="trow">LUNCHr</th>
+        </tr>
+    </tbody>
+</section>
 <!-- <section data-background-color="#f0f8ff" data-state=vvfa> -->
 <section data-state=vvfa>
  <style>.vvfa header:after { content: "Very Very Far Away"; }</style>
