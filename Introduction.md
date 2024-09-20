@@ -164,3 +164,6 @@ layout: reveal
 <section>
     <h1 class="WP">IMAGINING OBJECTS, ARTEFACTS, RITUALS AND THINGS EMBODYING THE WORLD WITHIN WHICH THESE THINGS EXIST.</h1>
 </section>
+<section data-background-image="assets/imgs/Le-Guin2.jpg" data-state=kesh>
+    <style>.kesh header:after { content: "Le Guin U. & Barton T., (1984), Music and Poetry of the Kesh"; }</style>
+</section>
