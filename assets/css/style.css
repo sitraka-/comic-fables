@@ -141,13 +141,13 @@ blockquote {
     margin: 1em 0;
 }
 
-#index {
+blockquote:first-child {
     position: relative;
     border: none;
 }
 
 @media only screen and (min-width: 1000px) {
-    #index {
+    blockquote:first-child {
         position: fixed;
         left: 50%;
         top: 1em;
