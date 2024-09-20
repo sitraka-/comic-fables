@@ -235,10 +235,10 @@ layout: reveal
     <style>.header19 header:after { content: "\\'\\'≠.\\ (2015)"; }</style>
     <img src="assets/imgs/medvsproc.jpg" />
 </section>
-<section>
+<section data-background-color="black">
     <span class="lit">CRITICAL<br>FABLES</span>
 </section>
-<section>
+<section data-background-color="black">
     <blockquote>
         A narrative featuring both human and nonhuman characters that conveys a moral or lesson through their actions and experiences.<br><br>These narratives can explore a wide array of themes, including etiquette, ethics, societal values, personal growth, and cultural traditions.
     </blockquote>
