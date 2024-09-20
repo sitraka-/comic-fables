@@ -17,14 +17,25 @@
 Anderson, R. et al. (2018, December 18). Speculative Anthropologies. Society for Cultural Anthropology. ([https://culanth.org/fieldsights/series/speculative-anthropologies](https://culanth.org/fieldsights/series/speculative-anthropologies))
 
 
-### 0. BIOME AS METAPHOR
+### 0. BIOME AS A METAPHOR FOR SYSTEMS
 
+**Overview**:
+
+In a time where design and ethnography merge to imagine new futures, the creation of objects and systems that mediate human interaction—human to human interactions, human to machines, machines to machines, machines to non-human, and so on—becomes of particular interest. This is project is rooted in critical making, a practice that emphasises the inseparability of thinking and making. Tim Ingold’s perspective is particularly relevant here, as it highlights how objects and materials are not just passive tools but active agents in shaping human understanding and behaviour. In this context, your task is to create objects that not only function within imagined rituals but also challenge and critique the systems they inhabit.
+
+These objects will serve as mediators of rituals, which are not limited to traditional or ceremonial practices but extend into everyday, habitual constructs—whether social, ecological, or political. The critical fables embedded within these objects will emerge not from an explicit narrative but from their interaction with the systems they support or subvert. These fables act as a form of critique, inviting us to question how imagined societies might grapple with the issues of our present, such as resource scarcity, technological dependence, or social inequality.
+
+Drawing parallels to Sun Ra’s Space is the Place, where music transcends time and space, we approach sound not merely as an aesthetic experience but as a means of inquiry. The sonic objects you create will not just emit sound but will mediate complex systems, engaging with their speculative worlds on a functional and philosophical level. 
+
+Like Ursula K. Le Guin’s “Music and Poetry of the Kesh,” where instruments are deeply intertwined with the values and lifeways of a fictional society, the objects you design must embody the rituals, values, and tensions of the world they belong to.
+
+The objects you create are not just artefacts; they are catalysts for thinking. The boundaries between maker and object, ritual and system, are intentionally blurred, you are crafting critical fables—narratives that offer new ways of understanding the present and imagining alternative paths forward.
 
 **Objective**: 
 
 Design and build sonic objects that play a critical role in the speculative world you are tasked to explore. These objects should mediate or facilitate newly emerging rituals shaped by the world’s socio-political, environmental, or technological structures. 
 
-The final outcome will be a collective soundscape performance, telling framgments of a world by showcasing how these objects interact.
+The final outcome will be a collective soundscape performance, telling framgments of a world by showcasing how these objects interact. This performance, akin to a devised play, will not tell a linear story but will instead present an exploration of critical ideas.
 
 ### 1. A SYSTEM OF EMERGENT RITUALS
 
