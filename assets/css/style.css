@@ -53,6 +53,7 @@ body {
     font-family: "Major Mono Display";
     font-size: 4rem;
     font-weight: normal;
+    max-width: 600px;
 }
 
 h1 {
