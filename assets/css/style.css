@@ -134,7 +134,7 @@ hr {
 
 blockquote {
     font-style: italic;
-    max-width: calc(600px - 3em);
+    max-width: calc(600px - 2em);
     background: repeating-linear-gradient(45deg, #ffffff30, transparent 4px);
     padding: 0.5em 1em;
     margin: 1em 0;
