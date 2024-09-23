@@ -123,19 +123,29 @@ Your task is to create objects that are integral to the emergent rituals of this
 
 ### KEY DATES & TIMES
 
-Date|TIME|TASK| Description|
+DATE|TIME|TASK|DESCRIPTION|
 |---|---|---|---|
 OCT. 7|10:00|Briefing|All Day Seminar|
-OCT. 15|10:00|Electronic Workhsop|w/ Felix & Karsten
+OCT. 15|10:00|Electronic Workhsop|w/ Felix & Karsten|
 OCT. 29|10:00|Design Review||
-NOV. 11|10:00|Performance 101|w/ Malena Arcucci
+NOV. 11|10:00|Performance 101|w/ Malena Arcucci|
 NOV. 19|10:00|Final Crit||
-NOV. --|19:00|Public Performance| venue is TBD
+NOV. --|19:00|Public Performance| venue is TBD|
 
-# Timetable
+### TIMETABLE
 
-Date|TIME|TASK| Description|
-|---|---|---|---|
-Oct. 7| 10:00 | __*Briefing*__ | full day seminar |
-Oct. 24| 14:00 | __*RUN THROUGH*__ | Hard deadline. All devices prepped & ready |
-Oct. 25| 18:00 | __*Listening Session*__ | Brief 1.2 __*Soft launch*__ in the Bar|
+DAY|SUPERVISION|DESCRIPTION|
+|---|---|---|
+MON|Andrew Friend|Open Studio|
+TUES|Sitraka & Andrew|Supervised Studio|
+WEDS|Andy Law|Open Studio|
+
+WEEK|DESIGN STAGE|DESCRIPTION
+|---|---|---|
+1|World-Building|Conception/Research|
+2|Embodied Storytelling|Rapid Prototypes/Mock Ups|
+3|Crafting The Speculation|Refined Prototypes|
+4|Iteration 1|Preparing for Desgin Review|
+5|Finalising Designs|Implement Feedback|
+6|Performing Rituals|Design Performance|
+7|Presentation|Design & Performance Delivery
