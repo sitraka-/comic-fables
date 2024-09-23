@@ -234,15 +234,21 @@ layout: reveal
     <span class="lit">CRITICAL<br>FABLES</span>
 </section>
 <section data-background-color="black">
+    <div class="quotes">
         A narrative featuring both human and nonhuman characters that conveys a moral or lesson through their actions and experiences.<br><br>These narratives can explore a wide array of themes, including etiquette, ethics, societal values, personal growth, and cultural traditions.
+    </div>
 </section>
 <section data-background-color="black">
     <span class="lit">CRITICAL<br>MAKING</span>
 </section>
 <section data-background-color="black">
+    <div class="quotes">
         <em>Thinking is Making and Making is Thinking...</em><br><br>
         <em>(Paraphrasing Tom Ingold)</em><br>The process of creation is not about imposing pre-formed ideas onto materials, but rather about a continuous "correspondence" where both the maker and the material influence and transform one another. <br><br>
+    </div>
 </section>
 <section data-background-color="black">
+    <div class="quotes">
         For this unit, we will collaborate in pairs to design and build electronic instruments and sonic tools that embody a fragment of a world.<br><br>Together, we will craft a live, collective soundscape that captures the essence of this place, culminating in a public performance.
+    </div>
 </section>
