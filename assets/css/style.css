@@ -146,6 +146,9 @@ blockquote {
     margin: 1em 0;
 }
 
+table {
+    padding: 1rem 0;
+}
 
 h5#index {
     font-style: normal;

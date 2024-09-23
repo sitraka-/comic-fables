@@ -125,7 +125,7 @@ Your task is to create objects that are integral to the emergent rituals of this
 
 ### KEY DATES & TIMES
 
-DATE|TIME|TASK|DESCRIPTION|
+DATE~|TIME~|TASK~|DESCRIPTION~|
 |---|---|---|---|
 OCT. 7|10:00|Briefing|All Day Seminar|
 OCT. 15|10:00|Electronic Workhsop|w/ Felix & Karsten|
@@ -136,7 +136,7 @@ NOV. --|19:00|Public Performance| venue is TBD|
 
 ### TIMETABLE
 
-DAY|SUPERVISION|DESCRIPTION|
+DAY~|SUPERVISION~|DESCRIPTION~|
 |---|---|---|
 MON|Andrew Friend|Open Studio|
 TUES|Sitraka & Andrew|Supervised Studio|
@@ -146,7 +146,7 @@ WEDS|Andy Law|Open Studio|
 ---
 
 
-WEEK|DESIGN STAGE|DESCRIPTION
+WEEK~|DESIGN STAGE~|DESCRIPTION~
 |---|---|---|
 1|World-Building|Conception/Research|
 2|Embodied Storytelling|Rapid Prototypes/Mock Ups|
