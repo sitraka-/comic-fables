@@ -138,9 +138,9 @@ NOV. --|19:00|Public Performance| venue is TBD|
 
 DAY~|SUPERVISION~|DESCRIPTION~|
 |---|---|---|
-MON|Andrew Friend|Open Studio|
-TUES|Sitraka & Andrew|Supervised Studio|
-WEDS|Andy Law|Open Studio|
+MONDAY|Andrew Friend|Open Studio|
+TUESDAY|Sitraka & Andrew|Supervised Studio|
+WEDNESDAY|Andy Law|Open Studio|
 
 
 ---
