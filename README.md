@@ -121,6 +121,16 @@ The challenge is to design objects that both **fit within** this world and **ref
 
 Your task is to create objects that are integral to the emergent rituals of this speculative world. These objects should not only function practically within the world’s systems but also engage with critical issues embedded in the world’s socio-political, environmental, or technological structures. The final collective performance will offer an immersive experience, where the interactions between objects and their sounds form a dynamic, evolving soundscape that reflects the speculative world as a whole.
 
+### KEY DATES & TIMES
+
+Date|TIME|TASK| Description|
+|---|---|---|---|
+OCT. 7|10:00|Briefing|All Day Seminar|
+OCT. 15|10:00|Electronic Workhsop|w/ Felix & Karsten
+OCT. 29|10:00|Design Review||
+NOV. 11|10:00|Performance 101|w/ Malena Arcucci
+NOV. 19|10:00|Final Crit||
+NOV. --|19:00|Public Performance| venue is TBD
 
 # Timetable
 
