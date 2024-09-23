@@ -135,7 +135,7 @@ layout: reveal
 </section>
 <section data-background-color="blueviolet" data-state=header1>
     <style>.header1 header:after { content: "Anderson, R. et al. (2018),Speculative Anthropologies"; }</style>
-        <em>(Designing)</em> at the intersection of speculative fiction and anthropology, we find a sense of epistemological humility about the kind of worlds we could <br>or should inhabit. <br><br> We do not know what we are capable of, and yet that need not keep us from the pursuit of <em>what ifs</em>.
+        <div class="quotes"><em>(Designing)</em> at the intersection of speculative fiction and anthropology, we find a sense of epistemological humility about the kind of worlds we could <br>or should inhabit. <br><br> We do not know what we are capable of, and yet that need not keep us from the pursuit of <em>what ifs</em>.</div>
 </section>
 <section data-state=header2>
     <style>.header2 header:after { content: "MAID at the Yard Theatre (2023), Cosmic Fables"; }</style>
