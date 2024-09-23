@@ -19,6 +19,8 @@
 >
 > [✓ 6. Biome As Metaphor](#6-biome-as-metaphor)
 >
+> [✓ Key Dates & Times](#key-dates--times)
+>
 > [✓ Timetable](#timetable)
 
 
