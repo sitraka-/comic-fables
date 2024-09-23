@@ -148,6 +148,7 @@ blockquote {
 
 table {
     padding: 1rem 0;
+    min-width: 600px;
 }
 
 h5#index {
@@ -182,6 +183,12 @@ blockquote:first-of-type {
 
     hr:first-of-type {
         visibility: hidden;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    table {
+        min-width: none;
     }
 }
 
