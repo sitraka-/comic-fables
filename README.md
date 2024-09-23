@@ -146,12 +146,12 @@ WEDNESDAY|Andy Law|Open Studio|
 ---
 
 
-WEEK~|DESIGN STAGE~|DESCRIPTION~
+WEEK~|PROJECT STAGES~|DESCRIPTION~
 |---|---|---|
 1|World-Building|Conception/Research|
 2|Embodied Storytelling|Rapid Prototypes/Mock Ups|
 3|Crafting The Speculation|Refined Prototypes|
 4|Iteration 1|Preparing for Desgin Review|
 5|Finalising Designs|Implement Feedback|
-6|Performing Rituals|Design Performance|
+6|Performing Rituals|Design Performances|
 7|Presentation|Design & Performance Delivery
