@@ -140,6 +140,10 @@ MON|Andrew Friend|Open Studio|
 TUES|Sitraka & Andrew|Supervised Studio|
 WEDS|Andy Law|Open Studio|
 
+
+---
+
+
 WEEK|DESIGN STAGE|DESCRIPTION
 |---|---|---|
 1|World-Building|Conception/Research|
