@@ -3,7 +3,9 @@
 
 
 > ##### INDEX 
-> [✓ Introduction Slides](Introduction.md)
+> [✓ Briefing](Introduction.md)
+>
+> [✓ Introduction](#introduction)
 > 
 > [✓ 1. A System Of Emergent Rituals](#1-a-system-of-emergent-rituals)
 >
@@ -31,7 +33,13 @@
 Anderson, R. et al. (2018, December 18). Speculative Anthropologies. Society for Cultural Anthropology. ([https://culanth.org/fieldsights/series/speculative-anthropologies](https://culanth.org/fieldsights/series/speculative-anthropologies))
 
 
-### BACKGROUND
+### INTRODUCTION
+
+**Objective**: 
+
+Design and build sonic objects that play a critical role in the world you are tasked to explore. These objects should mediate or facilitate newly emerging rituals shaped by the world’s socio-political, environmental, or technological structures. 
+
+The final outcome will be a collective soundscape performance, telling framgments of a world by showcasing how these objects interact. This performance, akin to a devised play, will not tell a linear story but will instead present an exploration of critical ideas.
 
 **Overview**:
 
@@ -44,12 +52,6 @@ Drawing parallels to Sun Ra’s Space is the Place, where music transcends time 
 Like Ursula K. Le Guin’s “Music and Poetry of the Kesh,” where instruments are deeply intertwined with the values and lifeways of a fictional society, the objects you design must embody the rituals, values, and tensions of the world they belong to.
 
 The objects you create are not just artefacts; they are catalysts for thinking. The boundaries between maker and object, ritual and system, are intentionally blurred, you are crafting critical fables—narratives that offer new ways of understanding the present and imagining alternative paths forward.
-
-**Objective**: 
-
-Design and build sonic objects that play a critical role in the world you are tasked to explore. These objects should mediate or facilitate newly emerging rituals shaped by the world’s socio-political, environmental, or technological structures. 
-
-The final outcome will be a collective soundscape performance, telling framgments of a world by showcasing how these objects interact. This performance, akin to a devised play, will not tell a linear story but will instead present an exploration of critical ideas.
 
 ### 1. A SYSTEM OF EMERGENT RITUALS
 
