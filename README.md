@@ -39,13 +39,15 @@ Anderson, R. et al. (2018, December 18). Speculative Anthropologies. Society for
 
 **Objective**: 
 
-Design and build sonic objects that play a critical role in the world you are tasked to explore. These objects should mediate or facilitate newly emerging rituals shaped by the world’s socio-political, environmental, or technological structures. 
+Work in teams to design and build sonic objects that play a critical role in the world you are tasked to explore. These objects should mediate or facilitate newly emerging rituals shaped by the world’s socio-political, environmental, or technological structures. 
 
-The final outcome will be a collective soundscape performance, telling framgments of a world by showcasing how these objects interact. This performance, akin to a devised play, will not tell a linear story but will instead present an exploration of critical ideas.
+The final outcome will be a collective soundscape performance, telling framgments of a world by showcasing how these objects interact and the rituals they enable and support. This performance, akin to a devised play, will not tell a linear story but will instead present an exploration of critical ideas.
 
 **Overview**:
 
-In a time where design and ethnography merge to imagine new futures, the creation of objects and systems that mediate interactions across all agents in a network—human to human interactions, human to machine, machine to machine, machine to non-human, and so on—becomes of particular interest. This project is rooted in critical making, a practice that emphasises the inseparability of thinking and making. Tim Ingold’s perspective is particularly relevant here, as it highlights how objects and materials are not just passive tools but active agents in shaping human understanding and behaviour. In this context, your task is to create objects that not only function within imagined rituals but also challenge and critique the systems they inhabit.
+In a time where design and ethnography merge to imagine new futures, the creation of objects and systems that mediate interactions across all agents in a network—human to human interactions, human to machine, machine to machine, machine to non-human, and so on—becomes of particular interest. This project is rooted in critical making, a practice that emphasises the interdependence of thinking and making.
+
+[Tim Ingold](https://api.pageplace.de/preview/DT0400.9781136763601_A23879950/preview-9781136763601_A23879950.pdf)’s perspective is particularly relevant here, as it highlights how objects and materials are not just passive tools but active agents in shaping human understanding and behaviour. In this context, your task is to create objects that not only function within imagined rituals but also challenge and critique the systems they inhabit.
 
 These objects will serve as mediators of rituals, which are not limited to traditional or ceremonial practices but extend into everyday, habitual constructs—whether social, ecological, or political. The critical fables embedded within these objects will emerge not from an explicit narrative but from their interaction with the systems they support or subvert. These fables act as a form of critique, inviting us to question how imagined societies might grapple with the issues of our present, such as resource scarcity, technological dependence, or social inequality.
 
