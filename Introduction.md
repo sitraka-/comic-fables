@@ -163,7 +163,7 @@ layout: reveal
     <style>.kesh header:after { content: "Le Guin U. & Barton T., (1984), Music and Poetry of the Kesh"; }</style>
 </section>
 <section data-background-image="assets/imgs/Le-Guin2.jpg" data-state=kesh>
-    <iframe style="border: 0; width: 500px; height: 500px;" src="https://bandcamp.com/EmbeddedPlayer/album=3143122306/size=large/bgcol=333333/linkcol=0f91ff/minimal=true/transparent=true/" seamless><a href="https://ursulakleguintoddbarton.bandcamp.com/album/music-and-poetry-of-the-kesh">Music and Poetry of the Kesh by Ursula K. Le Guin &amp; Todd Barton</a></iframe>
+    <iframe style="border: 0; width: 350px; height: 500px;" src="https://bandcamp.com/EmbeddedPlayer/album=3143122306/size=large/bgcol=333333/linkcol=0f91ff/transparent=true/" seamless><a href="https://ursulakleguintoddbarton.bandcamp.com/album/music-and-poetry-of-the-kesh">Music and Poetry of the Kesh by Ursula K. Le Guin &amp; Todd Barton</a></iframe>
 </section>
 <section data-background-image="assets/imgs/golden-1.webp" data-background-opacity="1" data-state=gold>
     <style>.gold header:after { content: "Voyager Golden Record, 1977"; }</style>
