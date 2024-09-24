@@ -244,7 +244,7 @@ layout: reveal
 <section data-background-color="black">
     <div class="quotes">
         <em>Thinking is Making and Making is Thinking...</em><br><br>
-        <em>(Paraphrasing Tom Ingold)</em><br>The process of creation is not about imposing pre-formed ideas onto materials, but rather about a continuous "correspondence" where both the maker and the material influence and transform one another. <br><br>
+        <em>(Paraphrasing Tim Ingold)</em><br>The process of creation is not about imposing pre-formed ideas onto materials, but rather about a continuous "correspondence" where both the maker and the material influence and transform one another. <br><br>
     </div>
 </section>
 <section data-background-color="black">

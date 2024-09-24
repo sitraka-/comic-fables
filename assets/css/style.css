@@ -159,6 +159,9 @@ h5#index {
 }
 
 
+.sem th {
+    font-size: 17px !important;
+}
 
 .reveal-viewport {
     padding: 0;
