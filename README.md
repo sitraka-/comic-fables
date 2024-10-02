@@ -123,7 +123,7 @@ The speculative world you will work within is an **adaptive system**, constantly
 
 The challenge is to design objects that both **fit within** this world and **reflect the larger structures** that shape it. 
 
-A description of the world you are tasked to inhabit can be found [here](TheAlchemyOfRuin.md)
+A description of the world you are tasked to inhabit can be found [here](TheAlchemyOfRuin.md).
 
 ### SUMMARY
 
