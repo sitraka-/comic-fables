@@ -1,3 +1,5 @@
+# The Alchemy Of Ruin
+
 The region now presents an austere, almost post-apocalyptic landscape. Once fertile and bursting with vineyards and orchards, it has transformed into an arid basin dominated by dry, cracked earth. The once-lush plains are now vast stretches of barren soil, with abandoned irrigation channels weaving through the land like scars. The air is often hazy with dust storms, carrying fine, toxic particles from agricultural chemicals that linger in the atmosphere, stinging the eyes and coating everything in a fine, corrosive layer.
 
 Rising above the basin, the jagged silhouettes of the surrounding mountains form a natural barrier, isolating the region further. In winter, the mountains become snow-capped, but the cold, unforgiving climate only worsens the area's isolation. In summer, the land is scorched under relentless sun, and wildfires rage across the brittle landscape. Patches of parched vegetation still cling to life but are increasingly sparse and dried out, adding to the overall sense of decay.
