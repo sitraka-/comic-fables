@@ -1,5 +1,32 @@
 # The Alchemy Of Ruin
 
+
+> ##### INDEX 
+> [✓ Briefing](Introduction.md)
+>
+> [✓ Introduction](#introduction)
+> 
+> [✓ 1. A System Of Emergent Rituals](#1-a-system-of-emergent-rituals)
+>
+> [✓ 2. Ritual As Everyday Construct](#2-ritual-as-everyday-construct)
+>
+> [✓ 3. Sound As Integral To Object Function](#3-sound-as-integral-to-object-function)
+>
+> [✓ 4. Critical Fables In Objects and Rituals](#4-critical-fables-embedded-in-objects-and-rituals)
+>
+> [✓ 5. Collective Soundscape](#5-collective-soundscape)
+>
+> [✓ 6. Biome As Metaphor](#6-biome-as-metaphor)
+>
+> [✓ Key Dates & Times](#key-dates--times)
+>
+> [✓ Timetable](#timetable)
+>
+> [✓ The Alchemy Of Ruin](TheAlchemyOfRuin.md)
+
+
+---
+
 The region now presents an austere, almost post-apocalyptic landscape. Once fertile and bursting with vineyards and orchards, it has transformed into an arid basin dominated by dry, cracked earth. The once-lush plains are now vast stretches of barren soil, with abandoned irrigation channels weaving through the land like scars. The air is often hazy with dust storms, carrying fine, toxic particles from agricultural chemicals that linger in the atmosphere, stinging the eyes and coating everything in a fine, corrosive layer.
 
 Rising above the basin, the jagged silhouettes of the surrounding mountains form a natural barrier, isolating the region further. In winter, the mountains become snow-capped, but the cold, unforgiving climate only worsens the area's isolation. In summer, the land is scorched under relentless sun, and wildfires rage across the brittle landscape. Patches of parched vegetation still cling to life but are increasingly sparse and dried out, adding to the overall sense of decay.
