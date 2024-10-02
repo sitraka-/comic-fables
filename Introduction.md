@@ -202,7 +202,7 @@ layout: reveal
     <iframe width="1080" height="512" src="https://www.youtube.com/embed/fApKGNdXhJw?si=_KjPPdZJZWl7yUf0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </section>
 
-<section data-background-image="assets/imgs/btt2.jpeg" data-state=btt>
+<section data-background-image="assets/imgs/btt.jpg" data-state=btt>
     <a href="https://www.maff.tv/watch/black-to-techno">Black To Techno on maff.tv</a>
 </section>
 
