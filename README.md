@@ -121,6 +121,8 @@ The speculative world you will work within is an **adaptive system**, constantly
 
 The challenge is to design objects that both **fit within** this world and **reflect the larger structures** that shape it. 
 
+A description of the world you are tasked to inhabit can be found [here](TheAlchemyOfRuin.md)
+
 ### SUMMARY
 
 Your task is to create objects that are integral to the emergent rituals of this speculative world. These objects should not only function practically within the world’s systems but also engage with critical issues embedded in the world’s socio-political, environmental, or technological structures. The final collective performance will offer an immersive experience, where the interactions between objects and their sounds form a dynamic, evolving soundscape that reflects the speculative world as a whole.
@@ -140,7 +142,7 @@ NOV. --|19:00|Public Performance| venue is TBD|
 
 DAY~|SUPERVISION~|DESCRIPTION~|
 |---|---|---|
-MONDAY|Andrew Friend|Open Studio|
+MONDAY|None|Open Studio|
 TUESDAY|Sitraka & Andrew|Supervised Studio|
 WEDNESDAY|Andy Law|Open Studio|
 
