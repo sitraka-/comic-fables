@@ -72,7 +72,7 @@ layout: reveal
     <style>.tcarm header:after { content: "Time Conditioning, 2010-2014"; }</style>
 </section>
 
-<section data-background-color="black" data-state=ls>
+<section data-state=ls>
     <style>.ls header:after { content: "DEVICE FOR EXPERIENCING LIGHTNING STRIKES, 2010"; }</style>
     <img src="assets/imgs/01_LightningStrike.jpg" style="max-height: 65vh;" />
 </section>
