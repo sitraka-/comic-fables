@@ -194,8 +194,14 @@ layout: reveal
     <iframe width="700" height="500" src="https://www.youtube.com/embed/Z8nppTSY-Rs?si=Pk8KgFlikTPCvXYa&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </section>
 <section data-background-color="black" data-background-opacity="1" data-state=sun>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/owCPrIEliZc?si=SHJCzKfPKFhV_bgr&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="1080" height="512" src="https://www.youtube.com/embed/owCPrIEliZc?si=SHJCzKfPKFhV_bgr&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </section>
+
+<section data-background-color="#000000" data-state=btt>
+    <style>.btt header:after { content: "Black To Techno (2019), Jenn Nkiru"; }</style>
+    <iframe width="1080" height="512" src="https://www.youtube.com/embed/fApKGNdXhJw?si=_KjPPdZJZWl7yUf0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</section>
+
 <section data-background-color="black">
     <h1 class="BT">Reverse Archaeology</h1>
 </section>
@@ -206,11 +212,6 @@ layout: reveal
 <section data-background-color="#000000" data-state=header16>
 <style>.header16 header:after { content: "1999 A.D. (1967), Lee Maden"; }</style>
     <iframe width="700" height="500" src="https://www.youtube.com/embed/Z0lArfzw59c?si=ygsn0G2ROT8yxRpn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</section>
-
-<section data-background-color="#000000" data-state=btt>
-    <style>.btt header:after { content: "<a href='https://www.maff.tv/watch/black-to-techno'>Black To Techno (2019), Jenn Nkiru</a>"; }</style>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/fApKGNdXhJw?si=_KjPPdZJZWl7yUf0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </section>
 
 <section data-background-image="assets/imgs/wfrr.jpg" data-state=wfrr>
