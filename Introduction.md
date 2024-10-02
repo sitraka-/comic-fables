@@ -209,7 +209,7 @@ layout: reveal
 </section>
 
 <section data-background-color="#000000" data-state=btt>
-    <style>.btt header:after { content: "Black To Techno (2019), Jenn Nkiru"; }</style>
+    <style>.btt header:after { content: "<a href='https://www.maff.tv/watch/black-to-techno'>Black To Techno (2019), Jenn Nkiru</a>"; }</style>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/fApKGNdXhJw?si=_KjPPdZJZWl7yUf0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </section>
 
