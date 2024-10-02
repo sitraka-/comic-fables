@@ -1,28 +1,4 @@
 # The Alchemy Of Ruin
-### COSMIC RITES<br/>FABLED SOUNDSCAPES
-
-> ##### INDEX 
-> [✓ Briefing](Introduction.md)
->
-> [✓ Introduction](#introduction)
-> 
-> [✓ 1. A System Of Emergent Rituals](#1-a-system-of-emergent-rituals)
->
-> [✓ 2. Ritual As Everyday Construct](#2-ritual-as-everyday-construct)
->
-> [✓ 3. Sound As Integral To Object Function](#3-sound-as-integral-to-object-function)
->
-> [✓ 4. Critical Fables In Objects and Rituals](#4-critical-fables-embedded-in-objects-and-rituals)
->
-> [✓ 5. Collective Soundscape](#5-collective-soundscape)
->
-> [✓ 6. Biome As Metaphor](#6-biome-as-metaphor)
->
-> [✓ Key Dates & Times](#key-dates--times)
->
-> [✓ Timetable](#timetable)
->
-> [✓ The Alchemy Of Ruin](TheAlchemyOfRuin.md)
 
 
 ---
