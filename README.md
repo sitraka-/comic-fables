@@ -106,10 +106,12 @@ The critical fables will emerge from the **interaction between the designed obje
 
 **Questions to Consider**:
 - What **systemic issues** (such as power dynamics, surveillance, or resource control) does the object engage with?
+
 - Does the object **solve** a problem, or does it create new ones, exposing vulnerabilities in the system?
 
 **Examples**:
 - A **passport control device** might reveal issues of surveillance and freedom of movement, raising questions about who is granted access in this environment.
+
 - A **territorial marker** could expose power imbalances related to the distribution of resources, reflecting how certain groups or areas are marginalised.
 
 The "lesson" of the critical fable comes through **how the object functions in its world**, rather than through explicit storytelling or moralising.
