@@ -143,7 +143,7 @@ layout: reveal
         <div class="quotes"><em>(Designing)</em> at the intersection of speculative fiction and anthropology, we find a sense of epistemological humility about the kind of worlds we could <br>or should inhabit. <br><br> We do not know what we are capable of, and yet that need not keep us from the pursuit of <em>what ifs</em>.</div>
 </section>
 <section data-background-color="blueviolet" data-state=header1>
-        <div class="quotes">Through the imaginative interpellations of speculative fiction, (we) gravitate toward new localities and means of presence: ecological, technological (social, political), Afro-futuristic (African-futuristic, Indiginous-futuristic, Latinx-futuristic, Chicana-futuristic, Arab-futuristic, Sinofuturistic, Japanese-futuristic-cyberpunk, Pacific-futuristic, and so on).<br>Facing the imminent prospect of both disaster and discovery, they call us to resist despair and to craft tangible ways of shaping and repairing the worlds we still hope for.</div>
+        <div class="quotes">Through the imaginative interpellations of speculative fiction, <em>(we)</em> gravitate toward new localities and means of presence: ecological, technological <em>(social, political)</em>, Afro-futuristic <em>(African-futuristic, Indiginous-futuristic, Latinx-futuristic, Chicana-futuristic, Arab-futuristic, Sinofuturistic, Japanese-futuristic-cyberpunk, Pacific-futuristic, and so on)</em>.<br><br>Facing the imminent prospect of both disaster and discovery, they call us to resist despair and to craft tangible ways of shaping and repairing the worlds we still hope for.</div>
 </section>
 <section data-state=header2>
     <style>.header2 header:after { content: "MAID at the Yard Theatre (2023), Cosmic Fables"; }</style>
