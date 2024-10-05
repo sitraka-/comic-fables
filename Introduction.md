@@ -444,7 +444,7 @@ layout: reveal
         3 mins — Action - pick action and apply;
     </div>
     <p></p>
-    <table class="verb sem">
+    <table class="verb sem smal">
     <tbody>
             <tr>  
                 <th class="trow">Growing</th>
