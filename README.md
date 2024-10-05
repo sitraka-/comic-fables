@@ -136,7 +136,9 @@ The challenge is to design objects that both **fit within** this world and **ref
 ### DELIVERABLES
 
 ✓ A short description of the ritual/event, in the form of a narrative piece of writing (~250 words).
-✓ A collective performance of the rituals.
+
+✓ A collective performance of the rituals (details about the format will be communicated as the project progresses), to take place in the Studio Theatre at Central Saint Martins.
+
 ✓ A well considered photograph of the sound making items, objects, or artefacts created.
 
 ### SOUND PRODUCTION
