@@ -296,7 +296,7 @@ layout: reveal
     </div>
 </section>
 <section data-background-color="#ff0000" data-background-image="assets/imgs/ppp_d_.png" data-state=pp>
-<style>.pp header:after { content: "Passport Please (2013), Lucas Pope"; }</style>
+<style>.pp header:after { content: "Papers, Please (2013), Lucas Pope"; }</style>
     <div class="quotes">
        ✓ A bureaucratic object designed for identity verification, playing a crucial role in organising the distribution of scarce resources or enforcing social hierarchies.
     </div>
