@@ -198,6 +198,9 @@ h5#index {
     padding-bottom: 1rem;
 }
 
+.verb th {
+    border: none !important;
+}
 
 .sem th {
     font-size: 17px !important;

@@ -439,11 +439,12 @@ layout: reveal
 <section>
     <h1 class="BT">3X3 Sprint</h1>
      <div class="quotes">
-        3 mins — Environmental interest - pick one feature of this environment 
-        3 mins — inhabitant interest - pick one inhabitant (thing, organism, etc) 
+        3 mins — Environmental interest - pick one feature of this environment <br>
+        3 mins — inhabitant interest - pick one inhabitant (thing, organism, etc) <br>
         3 mins — Action - pick action and apply;
     </div>
-    <table class="sem">
+    <p></p>
+    <table class="verb sem">
     <tbody>
             <tr>  
                 <th class="trow">Growing</th>
