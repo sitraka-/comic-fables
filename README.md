@@ -133,9 +133,11 @@ To create meaningful and impactful designs, it's essential that you thoroughly r
 
 The challenge is to design objects that both **fit within** this world and **reflect the larger structures** that shape it. A description of the world you are tasked to inhabit can be found [here](TheAlchemyOfRuin.md).
 
-### SUMMARY
+### DELIVERABLES
 
-Your task is to create objects that are integral to the emergent rituals of this speculative world. These objects should not only function practically within the world’s systems but also engage with critical issues embedded in the world’s socio-political, environmental, or technological structures. The final collective performance will offer an immersive experience, where the interactions between objects and their sounds form a dynamic, evolving soundscape that reflects the speculative world as a whole.
+✓ A short description of the ritual/event, in the form of a narrative piece of writing (~250 words).
+✓ A collective performance of the rituals.
+✓ A well considered photograph of the sound making items, objects, or artefacts created.
 
 ### KEY DATES & TIMES
 
