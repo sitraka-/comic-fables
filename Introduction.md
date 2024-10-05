@@ -350,6 +350,28 @@ layout: reveal
     <h1 class="BT">3<br>Sound As Integral To Object Function</h1>
 </section>
 <section data-background-color="#ff0000">
+    <div class="quotes">
+        In this project, sound should not be a separate, symbolic layer but an essential part of how the object operates. The sound produced by the objects could serve functional purposes (e.g., as alarms or feedback mechanisms) or shape the experiential aspects of the ritual itself.
+    </div>
+</section>
+<section data-background-color="#ff0000" data-background-image="assets/imgs/sf_d.png" data-state=sf>
+<style>.sf header:after { content: "Univited Guests (2015), Superflux"; }</style>
+    <div class="quotes">
+       ✓ A walking staff used by travellers that emits sounds responding to the environment. As the user moves, the staff produces gentle tones that vary based on proximity to resources like food, water, or safe shelter. When danger is near—such as unstable terrain or hazardous weather—the sounds shift to urgent, dissonant notes.
+    </div>
+</section>
+<section data-background-color="#ff0000" data-background-image="assets/imgs/dpk_d.png" data-state=dpk>
+<style>.dpk header:after { content: "Microbial Home (2011), Philips Design Probes"; }</style>
+    <div class="quotes">
+       ✓ Kitchen tools that emit sounds to indicate cooking stages. For example, a stirring spoon that changes its resonance based on the temperature or consistency of a dish. When the desired state is achieved, the spoon produces a satisfying chime.
+    </div>
+</section>
+<section data-background-color="#ff0000">
+    <div class="quotes">
+        The challenge is to ensure that sound is inseparable from the object’s function, contributing to the ritual without relying on abstraction or symbolism.
+    </div>
+</section>
+<section data-background-color="#ff0000">
     <h1 class="BT">4<br>Critical Fables Embedded In Objects X Rituals</h1>
 </section>
 <section data-background-color="#ff0000">
