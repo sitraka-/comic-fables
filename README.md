@@ -135,7 +135,7 @@ The speculative world you will work within is an **adaptive system**, constantly
 
 To create meaningful and impactful designs, it's essential that you thoroughly read and engage with the detailed description of this world. Pay close attention to its nuances and complexities, as understanding the environment and its dynamics will inform your object's functionality and relevance within the system.
 
-The challenge is to design objects that both **fit within** this world and **reflect the larger structures** that shape it. A description of the world you are tasked to inhabit can be found [here](TheAlchemyOfRuin.md).
+The challenge is to design objects that both **fit within** this world and **reflect the larger structures** that shape it. A description of the world you are tasked to inhabit can be found here: [**The Alchemy Of Ruin**](TheAlchemyOfRuin.md).
 
 ### DELIVERABLES
 
@@ -147,7 +147,7 @@ The challenge is to design objects that both **fit within** this world and **ref
 
 ### SOUND PRODUCTION
 
-Building upon previous iterations of Sound Systems, sound in this project will be produced electronically. You will need to engage in designing, programming, and embedding electronic devices as integral parts of your objects and rituals. We will have support from Felix Lotus and Karsten Goodwin from the Digital and Physical Computing Lab to assist us in our endeavours. This year, we have opted to use the [Seeed XIAO ESP32S3](https://wiki.seeedstudio.com/xiao_esp32s3_getting_started/) microcontroller to process physical inputs and wirelessly send data to computers and/or phones for sound signal processing in [Max/MSP](https://cycling74.com/products/max), [Pure Data](https://puredata.info/), [Ableton Note](https://www.ableton.com/en/note/), and similar platforms.
+Building upon previous iterations of Sound Systems, sound in this project will be produced electronically. You will need to engage in designing, programming, and embedding electronic devices as integral parts of your objects and rituals. We will have support from Felix Loftus and Karsten Goodwin from the Digital and Physical Computing Lab to assist us in our endeavours. This year, we have opted to use the [Seeed XIAO ESP32S3](https://wiki.seeedstudio.com/xiao_esp32s3_getting_started/) microcontroller to process physical inputs and wirelessly send data to computers and/or phones for sound signal processing in [Max/MSP](https://cycling74.com/products/max), [Pure Data](https://puredata.info/), [Ableton Note](https://www.ableton.com/en/note/), and similar platforms.
 
 Although we have planned for these technologies, electronic sound production isn't limited to them, and you are welcome to explore alternative methods. For instance, [here is a link](https://sitraka-.github.io/Sound-Systems/TEENSY.html) to last year's resources, where they used a Teensy microcontroller as their sound engine.
 
