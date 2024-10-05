@@ -441,7 +441,7 @@ layout: reveal
      <div class="quotes smalf">
         3 mins — Environmental interest - pick one feature of this environment <br>
         3 mins — inhabitant interest - pick one inhabitant (thing, organism, etc) <br>
-        3 mins — Action - pick action and apply;
+        3 mins — Action - pick action and apply:
     </div>
     <p></p>
     <table class="verb sem nomar">
