@@ -507,3 +507,8 @@ layout: reveal
         </tbody>
     </table>
 </section>
+<section data-background-image="assets/imgs/wb.png" >
+    <div class="quotes">
+       ✓ A walking staff used by travellers that emits sounds responding to the environment. As the user moves, the staff produces gentle tones that vary based on proximity to resources like food, water, or safe shelter. When danger is near—such as unstable terrain or hazardous weather—the sounds shift to urgent, dissonant notes.
+    </div>
+</section>
