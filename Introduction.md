@@ -331,7 +331,8 @@ layout: reveal
        ✓ A Conversational Coffee Machine: The communal office coffee machine begins to offer personalized drink recommendations based on the time of day and previous choices. Over time, it starts sharing quirky trivia or motivational quotes that align uncannily with employees’ current projects or moods, subtly influencing the office atmosphere.
     </div>
   </section>
-  <section data-background-color="#ff0000">
+  <section data-background-color="#ff0000" data-background-image="assets/imgs/umk_d.png" data-state=umk>
+<style>.umk header:after { content: "United Micro Kingdoms (2013), Dunne & Raby"; }</style>
     <div class="quotes ">
        ✓ A Serendipity Fare Card: The public transport fare card not only handles payments but also occasionally grants random rewards—like free rides or discounts at local businesses—based on travel patterns. Commuters start to alter their routes slightly, hoping to trigger these unexpected benefits, which gradually reshapes the flow of people through the city in unpredictable ways.
     </div>
