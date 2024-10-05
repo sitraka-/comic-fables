@@ -337,7 +337,8 @@ layout: reveal
        ✓ A Serendipity Fare Card: The public transport fare card not only handles payments but also occasionally grants random rewards—like free rides or discounts at local businesses—based on travel patterns. Commuters start to alter their routes slightly, hoping to trigger these unexpected benefits, which gradually reshapes the flow of people through the city in unpredictable ways.
     </div>
   </section>
-  <section data-background-color="#ff0000">
+  <section data-background-color="#ff0000" data-background-image="assets/imgs/lud_d.png" data-state=lud>
+<style>.lud header:after { content: "Gene Collect (2010), Ludwig Zeller"; }</style>
     <div class="quotes ">
        ✓ An Empathy Fitness Wristbands: Beyond tracking physical activity, these wristbands detect and share subtle emotional cues among wearers in close proximity. When someone nearby is stressed, the wristband gently notifies others, encouraging supportive interactions.
     </div>
