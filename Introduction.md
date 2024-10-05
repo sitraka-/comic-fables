@@ -418,6 +418,14 @@ layout: reveal
 <section data-background-color="#ff0000">
     <h1 class="BT">6<br>Biome As Catalyst</h1>
 </section>
+<section data-background-color="#ff0000">
+    <div class="quotes">
+        The speculative world you will work within is an adaptive system, constantly responding to new challenges—whether environmental, technological, or political. Rituals evolve to help inhabitants navigate these shifts, and the objects you design will play a key role in sustaining or disrupting these rituals.<br><br>To create meaningful and impactful designs, it’s essential that you thoroughly read and engage with the detailed description of this world. Pay close attention to its nuances and complexities, as understanding the environment and its dynamics will inform your object’s functionality and relevance within the system.<br><br>The challenge is to design objects that both fit within this world and reflect the larger structures that shape it.
+    </div>
+</section>
 <section>
     <a href="https://sitraka-.github.io/cosmic-fables/TheAlchemyOfRuin.html"><h1 class="BT">The Alchemy Of Ruin</h1></a>
+</section>
+<section >
+    <h1 class="BT">Deliverables</h1>
 </section>
