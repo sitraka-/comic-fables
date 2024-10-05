@@ -326,7 +326,8 @@ layout: reveal
         Rituals, in this brief, extend beyond traditional ceremonies and include any organised, habitual practice that forms part of the world’s social fabric. These might be daily practices, such as energy harvesting, regular communication across locations, or the management of scarce resources.<br><br>Each group is tasked with designing objects that play a pivotal role in these practical, everyday rituals. Rather than focusing on metaphorical representations, the object should serve a functional purpose within the world’s structures.
     </div>
 </section>
-<section data-background-color="#ff0000">
+<section data-background-color="#ff0000" data-background-image="assets/imgs/db_d.png" data-state=db>
+<style>.db header:after { content: "CFS(m): universal paradigm for computational flavor synthesis (2015), David Benque"; }</style>
     <div class="quotes">
        ✓ A Conversational Coffee Machine: The communal office coffee machine begins to offer personalized drink recommendations based on the time of day and previous choices. Over time, it starts sharing quirky trivia or motivational quotes that align uncannily with employees’ current projects or moods, subtly influencing the office atmosphere.
     </div>
