@@ -249,10 +249,10 @@ layout: reveal
     <style>.header19 header:after { content: "\\'\\'≠.\\ (2015)"; }</style>
     <img src="assets/imgs/medvsproc.jpg" />
 </section>
-<section data-background-color="black">
+<section data-background-color="black" data-background-image="assets/imgs/BIY_posters.png">
     <span class="lit">CRITICAL<br>FABLES</span>
 </section>
-<section data-background-color="black">
+<section data-background-color="black" data-background-image="assets/imgs/BIY_posters.png">
     <div class="quotes">
     A narrative-centric design framework that employs allegorical storytelling to engage with complex issues, critique dominant paradigms, and envision alternative histories. It serves as catalyst for transformative discourse by provoking critical enquiry, ethical contemplation, and the reimagining of realities beyond conventional beliefs.
     </div>
