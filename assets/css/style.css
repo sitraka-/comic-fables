@@ -203,9 +203,12 @@ h5#index {
     padding: 0 !important;
 }
 
-.smal {
+.nomar {
+    margin: 0 !important;
+}
+
+.smalf {
     font-size: 1.5rem !important;
-    margin: 0;
 }
 
 .sem th {
