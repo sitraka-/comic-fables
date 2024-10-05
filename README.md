@@ -80,7 +80,9 @@ Each group is tasked with designing objects that play a pivotal role in these **
 
 **Examples**:
 - A **Conversational Coffee Machine**: The communal office coffee machine begins to offer personalized drink recommendations based on the time of day and previous choices. Over time, it starts sharing quirky trivia or motivational quotes that align uncannily with employees' current projects or moods, subtly influencing the office atmosphere and becoming a central piece in daily interactions.
+
 - A **Serendipity Fare Card**: The public transport fare card not only handles payments but also occasionally grants random rewards—like free rides or discounts at local businesses—based on travel patterns. Commuters start to alter their routes slightly, hoping to trigger these unexpected benefits, which gradually reshapes the flow of people through the city in unpredictable ways.
+
 - An **Empathy Fitness Wristbands**: Beyond tracking physical activity, these wristbands detect and share subtle emotional cues among wearers in close proximity. When someone nearby is stressed, the wristband gently notifies others, encouraging supportive interactions. This leads to a new social ritual where people become more attuned to the well-being of those around them, fostering a more compassionate community.
 
 Your focus is to create objects that **function** within the speculative world’s systems, helping to ground the rituals in a practical, everyday context.
@@ -90,7 +92,8 @@ Your focus is to create objects that **function** within the speculative world�
 In this project, sound should not be a separate, symbolic layer but an **essential part** of how the object operates. The sound produced by the objects could serve functional purposes (e.g., as alarms or feedback mechanisms) or shape the experiential aspects of the ritual itself.
 
 **Examples**:
-- A **A walking staff** used by travellers that emits sounds responding to the environment. As the user moves, the staff produces gentle tones that vary based on proximity to resources like food, water, or safe shelter. When danger is near—such as unstable terrain or hazardous weather—the sounds shift to urgent, dissonant notes. 
+- A **walking staff** used by travellers that emits sounds responding to the environment. As the user moves, the staff produces gentle tones that vary based on proximity to resources like food, water, or safe shelter. When danger is near—such as unstable terrain or hazardous weather—the sounds shift to urgent, dissonant notes. 
+
 - **Kitchen tools** that emit sounds to indicate cooking stages. For example, a stirring spoon that changes its resonance based on the temperature or consistency of a dish. When the desired state is achieved, the spoon produces a satisfying chime.
 
 The challenge is to ensure that **sound is inseparable from the object’s function**, contributing to the ritual without relying on abstraction or symbolism.
