@@ -436,3 +436,54 @@ layout: reveal
 <section>
     <a href="https://sitraka-.github.io/cosmic-fables/TheAlchemyOfRuin.html"><h1 class="BT">The Alchemy Of Ruin</h1></a>
 </section>
+<section>
+    <h1 class="BT">3X3 Sprint</h1>
+     <div class="quotes">
+        3 mins — Environmental interest - pick one feature of this environment 
+        3 mins — inhabitant interest - pick one inhabitant (thing, organism, etc) 
+        3 mins — Action - pick action and apply;
+    </div>
+    <table>
+    <tbody>
+            <tr>  
+                <th class="trow">Growing</th>
+                <th class="trow">Winning</th>
+                <th class="trow">Eating</th>
+                <th class="trow">Sleeping</th>
+                <th class="trow">Waking</th>
+                <th class="trow">Dying</th>
+                <th class="trow">Losing</th>
+                <th class="trow">Laughing</th>
+                <th class="trow">Defeating</th>
+                <th class="trow">Exploiting</th>
+                <th class="trow">Learning</th>
+            </tr>
+            <tr>              
+                <th class="trow">Aging</th>
+                <th class="trow">Dancing</th>
+                <th class="trow">Climbing</th>
+                <th class="trow">Driving</th>
+                <th class="trow">Building</th>
+                <th class="trow">Talking</th>
+                <th class="trow">Shopping</th>
+                <th class="trow">Skipping</th>
+                <th class="trow">Woodworking</th>
+                <th class="trow">Foraging</th>
+                <th class="trow">Juggling</th>
+            </tr>
+            <tr>              
+                <th class="trow">Stretching</th>
+                <th class="trow">Sunbathing</th>
+                <th class="trow">Caving</th>
+                <th class="trow">Harvesting</th>
+                <th class="trow">Playing</th>
+                <th class="trow">Greeting</th>
+                <th class="trow">Negotiating</th>
+                <th class="trow">Deceiving</th>
+                <th class="trow">Smelling</th>
+                <th class="trow">Breathing</th>
+                <th class="trow">Sweating</th>
+            </tr>
+        </tbody>
+    </table>
+</section>
