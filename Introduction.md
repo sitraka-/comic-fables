@@ -443,7 +443,7 @@ layout: reveal
         3 mins — inhabitant interest - pick one inhabitant (thing, organism, etc) 
         3 mins — Action - pick action and apply;
     </div>
-    <table>
+    <table class="sem">
     <tbody>
             <tr>  
                 <th class="trow">Growing</th>
@@ -463,44 +463,44 @@ layout: reveal
             <tr>
                 <th class="trow">Exploiting</th>
                 <th class="trow">Learning</th>
+                <th class="trow">Aging</th>
             </tr>
             <tr>              
-                <th class="trow">Aging</th>
                 <th class="trow">Dancing</th>
                 <th class="trow">Climbing</th>
+                <th class="trow">Driving</th>
             </tr>
             <tr>
-                <th class="trow">Driving</th>
                 <th class="trow">Building</th>
                 <th class="trow">Talking</th>
+                <th class="trow">Shopping</th>
             </tr>
             <tr>
-                <th class="trow">Shopping</th>
                 <th class="trow">Skipping</th>
                 <th class="trow">Woodworking</th>
-            </tr>
-            <tr>
                 <th class="trow">Foraging</th>
+            </tr>
+            <tr>    
                 <th class="trow">Juggling</th>             
                 <th class="trow">Stretching</th>
+                <th class="trow">Sunbathing</th>
             </tr>
             <tr>
-                <th class="trow">Sunbathing</th>
                 <th class="trow">Caving</th>
                 <th class="trow">Harvesting</th>
+                <th class="trow">Playing</th>
             </tr>
             <tr>
-                <th class="trow">Playing</th>
                 <th class="trow">Greeting</th>
                 <th class="trow">Negotiating</th>
+                <th class="trow">Deceiving</th>
             </tr>
             <tr>
-                <th class="trow">Deceiving</th>
                 <th class="trow">Smelling</th>
                 <th class="trow">Breathing</th>
+                <th class="trow">Sweating</th>
             </tr>
             <tr>
-                <th class="trow">Sweating</th>
                 <th class="trow">Gauging</th>
                 <th class="trow">Rocking</th>
             </tr>
