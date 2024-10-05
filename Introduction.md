@@ -432,7 +432,6 @@ layout: reveal
         <div class="quotes fragment">✓ A collective performance of the rituals (details about the format will be communicated as the project progresses), to take place in the Studio Theatre at Central Saint Martins.</div>
         <p></p>
         <div class="quotes fragment">✓ A well considered photograph of the sound making items, objects, or artefacts created.</div>
-    </div>
 </section>
 <section>
     <a href="https://sitraka-.github.io/cosmic-fables/TheAlchemyOfRuin.html"><h1 class="BT">The Alchemy Of Ruin</h1></a>
@@ -450,12 +449,18 @@ layout: reveal
                 <th class="trow">Growing</th>
                 <th class="trow">Winning</th>
                 <th class="trow">Eating</th>
+            </tr>
+            <tr>
                 <th class="trow">Sleeping</th>
                 <th class="trow">Waking</th>
                 <th class="trow">Dying</th>
+            </tr>
+            <tr>
                 <th class="trow">Losing</th>
                 <th class="trow">Laughing</th>
                 <th class="trow">Defeating</th>
+            </tr>
+            <tr>
                 <th class="trow">Exploiting</th>
                 <th class="trow">Learning</th>
             </tr>
@@ -463,27 +468,41 @@ layout: reveal
                 <th class="trow">Aging</th>
                 <th class="trow">Dancing</th>
                 <th class="trow">Climbing</th>
+            </tr>
+            <tr>
                 <th class="trow">Driving</th>
                 <th class="trow">Building</th>
                 <th class="trow">Talking</th>
+            </tr>
+            <tr>
                 <th class="trow">Shopping</th>
                 <th class="trow">Skipping</th>
                 <th class="trow">Woodworking</th>
-                <th class="trow">Foraging</th>
-                <th class="trow">Juggling</th>
             </tr>
-            <tr>              
+            <tr>
+                <th class="trow">Foraging</th>
+                <th class="trow">Juggling</th>             
                 <th class="trow">Stretching</th>
+            </tr>
+            <tr>
                 <th class="trow">Sunbathing</th>
                 <th class="trow">Caving</th>
                 <th class="trow">Harvesting</th>
+            </tr>
+            <tr>
                 <th class="trow">Playing</th>
                 <th class="trow">Greeting</th>
                 <th class="trow">Negotiating</th>
+            </tr>
+            <tr>
                 <th class="trow">Deceiving</th>
                 <th class="trow">Smelling</th>
                 <th class="trow">Breathing</th>
+            </tr>
+            <tr>
                 <th class="trow">Sweating</th>
+                <th class="trow">Gauging</th>
+                <th class="trow">Rocking</th>
             </tr>
         </tbody>
     </table>
