@@ -133,6 +133,21 @@ td {
     text-align: center; */
 }
 
+.flexy {
+    width: 100%;
+    display: flex;
+    position: relative;
+    max-width: 100%;
+    justify-content: space-between;
+    font-family: 'IBM Plex Mono';
+    color: white;
+}
+
+.margin6remTop {
+    margin-top: 6rem !important;
+
+}
+
 p,
 ul {
     max-width: 600px;
