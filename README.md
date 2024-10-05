@@ -90,8 +90,8 @@ Your focus is to create objects that **function** within the speculative world�
 In this project, sound should not be a separate, symbolic layer but an **essential part** of how the object operates. The sound produced by the objects could serve functional purposes (e.g., as alarms or feedback mechanisms) or shape the experiential aspects of the ritual itself.
 
 **Examples**:
-- A **passport control device** might produce sound waves resonating with specific identity frequencies, allowing or denying passage through borders.
-- A **water purification tool** could use sonic frequencies to detect impurities, where different sound patterns signal the purity or contamination level of the water.
+- A **A walking staff** used by travellers that emits sounds responding to the environment. As the user moves, the staff produces gentle tones that vary based on proximity to resources like food, water, or safe shelter. When danger is near—such as unstable terrain or hazardous weather—the sounds shift to urgent, dissonant notes. 
+- **Kitchen tools** that emit sounds to indicate cooking stages. For example, a stirring spoon that changes its resonance based on the temperature or consistency of a dish. When the desired state is achieved, the spoon produces a satisfying chime.
 
 The challenge is to ensure that **sound is inseparable from the object’s function**, contributing to the ritual without relying on abstraction or symbolism.
 
@@ -105,7 +105,7 @@ The critical fables will emerge from the **interaction between the designed obje
 
 **Examples**:
 - A **passport control device** might reveal issues of surveillance and freedom of movement, raising questions about who is granted access in this environment.
-- A **geopolitical tool** could expose power imbalances related to the distribution of resources, reflecting how certain groups or areas are marginalised.
+- A **territorial marker** could expose power imbalances related to the distribution of resources, reflecting how certain groups or areas are marginalised.
 
 The "lesson" of the critical fable comes through **how the object functions in its world**, rather than through explicit storytelling or moralising.
 
@@ -113,12 +113,12 @@ The "lesson" of the critical fable comes through **how the object functions in i
 
 The final performance will feature a **collective soundscape**, created by the interaction of all the designed objects. Each object’s sound will respond to or affect the sounds of others, creating an emergent, collaborative sound environment. The focus is on how the objects **interact within a shared space**, rather than on separate, linear performances.
 
-**Examples**:
-- One group’s **sonic tool** might emit frequencies that alter another group’s **environmental sensor**.
+**Example**:
+- One group’s **audio tool** might emit frequencies that alter another group’s **environmental sensor**.
 
 This collective performance will showcase the **interconnectedness of the systems** through sound, without relying on narrative. The goal is to explore how these rituals and systems function together in real time, as part of a cohesive world.
 
-### 6. BIOME AS METAPHOR
+### 6. BIOME AS CATALYST
 
 The speculative world you will work within is an **adaptive system**, constantly responding to new challenges—whether environmental, technological, or political. Rituals evolve to help inhabitants navigate these shifts, and the objects you design will play a key role in sustaining or disrupting these rituals.
 
