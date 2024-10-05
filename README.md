@@ -57,7 +57,7 @@ In a time where design and [ethnography](https://en.wikipedia.org/wiki/Ethnograp
 
 These objects will serve as mediators of rituals, which are not limited to traditional or ceremonial practices but extend into everyday, habitual constructs—whether social, ecological, or political. The critical fables embedded within these objects will emerge not from an explicit narrative but from their interaction with the systems they support or subvert. These fables act as a form of critique, inviting us to question how imagined societies might grapple with the issues of our present, such as resource scarcity, technological dependence, or social inequality.
 
-Drawing parallels to [Sun Ra](https://en.wikipedia.org/wiki/Sun_Ra)’s [*Space Is The Place*](https://en.wikipedia.org/wiki/Space_Is_the_Place), where music transcends time and space, we approach sound not merely as an aesthetic experience but as a means of inquiry. The sonic objects you create will not just emit sound but will mediate complex systems, engaging with their speculative worlds on a functional and philosophical level. 
+Drawing parallels to [Sun Ra](https://en.wikipedia.org/wiki/Sun_Ra)’s [*Space Is The Place*](https://en.wikipedia.org/wiki/Space_Is_the_Place), where music transcends time and space, we approach sound not merely as an aesthetic experience but as a means of enquiry. The sonic objects you create will not just emit sound but will mediate complex systems, engaging with their speculative worlds on a functional and philosophical level. 
 
 Like [Ursula K. Le Guin](https://en.wikipedia.org/wiki/Ursula_K._Le_Guin) and [Todd Barton](https://www.toddbarton.com/)’s [*Music And Poetry Of The Kesh*](https://www.ursulakleguin.com/kesh-music), where instruments are deeply intertwined with the values and lifeways of a fictional society, the objects you design must embody the rituals, values, and tensions of the world they belong to.
 
@@ -85,7 +85,7 @@ Rituals, in this brief, extend beyond traditional ceremonies and include **any o
 Each group is tasked with designing objects that play a pivotal role in these **practical, everyday rituals**. Rather than focusing on metaphorical representations, the object should serve a functional purpose within the world’s structures.
 
 **Examples**:
-- A **Conversational Coffee Machine**: The communal office coffee machine begins to offer personalized drink recommendations based on the time of day and previous choices. Over time, it starts sharing quirky trivia or motivational quotes that align uncannily with employees' current projects or moods, subtly influencing the office atmosphere.
+- A **Conversational Coffee Machine**: The communal office coffee machine begins to offer personalised drink recommendations based on the time of day and previous choices. Over time, it starts sharing quirky trivia or motivational quotes that align uncannily with employees' current projects or moods, subtly influencing the office atmosphere.
 
 - A **Serendipity Fare Card**: The public transport fare card not only handles payments but also occasionally grants random rewards—like free rides or discounts at local businesses—based on travel patterns. Commuters start to alter their routes slightly, hoping to trigger these unexpected benefits, which gradually reshapes the flow of people through the city in unpredictable ways.
 
