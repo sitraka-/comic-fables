@@ -123,14 +123,14 @@ td {
 .lit {
     font-family: 'Lithops';
     font-size: 12rem;
-    color: black;
-    line-height: 1;
-    padding: 2rem;
+    /* color: black; */
+    line-height: 0.6;
+    /* padding: 2rem;
     box-decoration-break: clone;
     -webkit-box-decoration-break: clone;
     background: yellow;
     border-radius: 3rem;
-    text-align: center;
+    text-align: center; */
 }
 
 p,

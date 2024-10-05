@@ -249,8 +249,8 @@ layout: reveal
     <style>.header19 header:after { content: "\\'\\'≠.\\ (2015)"; }</style>
     <img src="assets/imgs/medvsproc.jpg" />
 </section>
-<section data-background-color="black" data-background-image="assets/imgs/BIY_posters.png" data-state=auto>
-<style>.aut header:after { content: "Believe It Yourself (2018), Automato"; }</style>
+<section data-background-color="black" data-background-image="assets/imgs/BIY_posters_d.png" data-state=auto>
+<style>.auto header:after { content: "Believe It Yourself (2018), Automato"; }</style>
     <span class="lit">CRITICAL<br>FABLES</span>
 </section>
 <section data-background-color="black" >
