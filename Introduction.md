@@ -309,7 +309,35 @@ layout: reveal
     </div>
 </section>
 <section data-background-color="#ff0000">
+    <div class="quotes">
+        The objects should reflect the systems of this world (social, political, or ecological) and be deeply embedded in its ritualistic practices.
+    </div>
+</section>
+<section data-background-color="#ff0000">
     <h1 class="BT">2<br>Rituals As Everyday Construct</h1>
+</section>
+<section data-background-color="#ff0000">
+    <div class="quotes">
+        Rituals, in this brief, extend beyond traditional ceremonies and include any organised, habitual practice that forms part of the world’s social fabric. These might be daily practices, such as energy harvesting, regular communication across locations, or the management of scarce resources.<br><br>Each group is tasked with designing objects that play a pivotal role in these practical, everyday rituals. Rather than focusing on metaphorical representations, the object should serve a functional purpose within the world’s structures.
+    </div>
+</section>
+<section data-background-color="#ff0000">
+    <div class="quotes">
+       ✓ A Conversational Coffee Machine: The communal office coffee machine begins to offer personalized drink recommendations based on the time of day and previous choices. Over time, it starts sharing quirky trivia or motivational quotes that align uncannily with employees’ current projects or moods, subtly influencing the office atmosphere and becoming a central piece in daily interactions.
+    </div>
+    <p></p>
+    <div class="quotes fragment">
+       ✓ A Serendipity Fare Card: The public transport fare card not only handles payments but also occasionally grants random rewards—like free rides or discounts at local businesses—based on travel patterns. Commuters start to alter their routes slightly, hoping to trigger these unexpected benefits, which gradually reshapes the flow of people through the city in unpredictable ways.
+    </div>
+    <p></p>
+    <div class="quotes fragment">
+       ✓ An Empathy Fitness Wristbands: Beyond tracking physical activity, these wristbands detect and share subtle emotional cues among wearers in close proximity. When someone nearby is stressed, the wristband gently notifies others, encouraging supportive interactions. This leads to a new social ritual where people become more attuned to the well-being of those around them, fostering a more compassionate community.
+    </div>
+</section>
+<section data-background-color="#ff0000">
+    <div class="quotes">
+        Your focus is to create objects that function within the speculative world’s systems, helping to ground the rituals in a practical, everyday context.
+    </div>
 </section>
 <section data-background-color="#ff0000">
     <h1 class="BT">3<br>Sound As Integral To Object Function</h1>
