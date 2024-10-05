@@ -140,7 +140,8 @@ td {
     max-width: 100%;
     justify-content: space-between;
     font-family: 'IBM Plex Mono';
-    color: white;
+    color: aqua;
+    font-size: 2rem;
 }
 
 .margin6remTop {
