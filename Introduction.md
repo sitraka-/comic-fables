@@ -261,7 +261,7 @@ layout: reveal
 <section data-background-color="black" data-background-image="assets/imgs/BIY_posters.png" data-state=auto>
     <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/339397318?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="BIY - Harmonious Self Driving Kit"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 </section>
-<section data-background-color="black" data-opacity="50%" data-background-image="assets/imgs/aesop_2_d.jpg">
+<section data-background-color="black" data-opacity="50%" data-background-image="assets/imgs/aesop_2_d.png">
     <span class="lit">FABLED<br>NARRATIVE</span>
 </section>
 <section data-background-color="black">
