@@ -85,11 +85,11 @@ Rituals, in this brief, extend beyond traditional ceremonies and include **any o
 Each group is tasked with designing objects that play a pivotal role in these **practical, everyday rituals**. Rather than focusing on metaphorical representations, the object should serve a functional purpose within the world’s structures.
 
 **Examples**:
-- A **Conversational Coffee Machine**: The communal office coffee machine begins to offer personalized drink recommendations based on the time of day and previous choices. Over time, it starts sharing quirky trivia or motivational quotes that align uncannily with employees' current projects or moods, subtly influencing the office atmosphere and becoming a central piece in daily interactions.
+- A **Conversational Coffee Machine**: The communal office coffee machine begins to offer personalized drink recommendations based on the time of day and previous choices. Over time, it starts sharing quirky trivia or motivational quotes that align uncannily with employees' current projects or moods, subtly influencing the office atmosphere.
 
 - A **Serendipity Fare Card**: The public transport fare card not only handles payments but also occasionally grants random rewards—like free rides or discounts at local businesses—based on travel patterns. Commuters start to alter their routes slightly, hoping to trigger these unexpected benefits, which gradually reshapes the flow of people through the city in unpredictable ways.
 
-- An **Empathy Fitness Wristbands**: Beyond tracking physical activity, these wristbands detect and share subtle emotional cues among wearers in close proximity. When someone nearby is stressed, the wristband gently notifies others, encouraging supportive interactions. This leads to a new social ritual where people become more attuned to the well-being of those around them, fostering a more compassionate community.
+- An **Empathy Fitness Wristbands**: Beyond tracking physical activity, these wristbands detect and share subtle emotional cues among wearers in close proximity. When someone nearby is stressed, the wristband gently notifies others, encouraging supportive interactions.
 
 Your focus is to create objects that **function** within the speculative world’s systems, helping to ground the rituals in a practical, everyday context.
 

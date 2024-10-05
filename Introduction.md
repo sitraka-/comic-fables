@@ -328,7 +328,7 @@ layout: reveal
 </section>
 <section data-background-color="#ff0000">
     <div class="quotes">
-       ✓ A Conversational Coffee Machine: The communal office coffee machine begins to offer personalized drink recommendations based on the time of day and previous choices. Over time, it starts sharing quirky trivia or motivational quotes that align uncannily with employees’ current projects or moods, subtly influencing the office atmosphere and becoming a central piece in daily interactions.
+       ✓ A Conversational Coffee Machine: The communal office coffee machine begins to offer personalized drink recommendations based on the time of day and previous choices. Over time, it starts sharing quirky trivia or motivational quotes that align uncannily with employees’ current projects or moods, subtly influencing the office atmosphere.
     </div>
   </section>
   <section data-background-color="#ff0000">
@@ -338,7 +338,7 @@ layout: reveal
   </section>
   <section data-background-color="#ff0000">
     <div class="quotes ">
-       ✓ An Empathy Fitness Wristbands: Beyond tracking physical activity, these wristbands detect and share subtle emotional cues among wearers in close proximity. When someone nearby is stressed, the wristband gently notifies others, encouraging supportive interactions. This leads to a new social ritual where people become more attuned to the well-being of those around them, fostering a more compassionate community.
+       ✓ An Empathy Fitness Wristbands: Beyond tracking physical activity, these wristbands detect and share subtle emotional cues among wearers in close proximity. When someone nearby is stressed, the wristband gently notifies others, encouraging supportive interactions.
     </div>
 </section>
 <section data-background-color="#ff0000">
