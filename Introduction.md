@@ -279,8 +279,13 @@ layout: reveal
         <em>(Paraphrasing Tim Ingold)</em><br>The process of creation is not about imposing pre-formed ideas onto materials, but rather about a continuous "correspondence" where both the maker and the material influence and transform one another. <br><br>
     </div>
 </section>
-<section data-background-color="black">
+<section data-background-color="#ff0000">
+    <h1 class="BT">Objectives</h1>
+</section>
+<section data-background-color="#ff0000">
     <div class="quotes">
-        For this unit, we will collaborate in pairs to design and build electronic instruments and sonic tools that embody a fragment of a world.<br><br>Together, we will craft a live, collective soundscape that captures the essence of this place, culminating in a public performance.
+        Work in teams to design and build sonic objects that play a critical role in the world you are tasked to explore. These objects should mediate or facilitate newly emerging rituals shaped by the world’s socio-political, environmental, or technological structures.<br><br>
+
+The final outcome will be a collective soundscape performance, telling framgments of a world by showcasing how these objects interact and the rituals they enable and support. This performance, akin to a devised play, will not tell a linear story but will instead present an exploration of critical ideas.
     </div>
 </section>
