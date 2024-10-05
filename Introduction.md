@@ -269,7 +269,7 @@ layout: reveal
     A narrative featuring both human and nonhuman characters that conveys <em>a moral or lesson</em> through their actions and experiences. These narratives can explore a wide array of themes, including etiquette, ethics, societal values, personal growth, and cultural traditions.
     </div>
 </section>
-<section data-background-color="black" data-background-image="assets/imgs/hertz_d.jpg" data-state=gh>
+<section data-background-color="black" data-background-image="assets/imgs/hertz_d.png" data-state=gh>
 <style>.gh header:after { content: "Critical Making (2012), Garnet Hertz"; }</style>
     <span class="lit">CRITICAL<br>MAKING</span>
 </section>
