@@ -206,7 +206,7 @@ layout: reveal
 </section>
 
 <section data-background-image="assets/imgs/btt.jpg" data-state=btt>
-    <a href="https://www.maff.tv/watch/black-to-techno">Black To Techno on maff.tv</a>
+    <a class="quotes" href="https://www.maff.tv/watch/black-to-techno">Black To Techno on maff.tv</a>
 </section>
 
 <section data-background-color="black">
@@ -254,7 +254,15 @@ layout: reveal
 </section>
 <section data-background-color="black">
     <div class="quotes">
-        A narrative featuring both human and nonhuman characters that conveys a moral or lesson through their actions and experiences.<br><br>These narratives can explore a wide array of themes, including etiquette, ethics, societal values, personal growth, and cultural traditions.
+    A narrative-centric design framework that employs allegorical storytelling to engage with complex issues, critique dominant paradigms, and envision alternative histories. It serves as catalyst for transformative discourse by provoking critical enquiry, ethical contemplation, and the reimagining of realities beyond conventional beliefs.
+    </div>
+</section>
+<section data-background-color="black">
+    <span class="lit">FABLED<br>NARRATIVE</span>
+</section>
+<section data-background-color="black">
+    <div class="quotes">
+    A narrative featuring both human and nonhuman characters that conveys <em>a moral or lesson</em> through their actions and experiences. These narratives can explore a wide array of themes, including etiquette, ethics, societal values, personal growth, and cultural traditions.
     </div>
 </section>
 <section data-background-color="black">
