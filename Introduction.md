@@ -501,10 +501,6 @@ layout: reveal
                 <th class="trow">Breathing</th>
                 <th class="trow">Sweating</th>
             </tr>
-            <tr>
-                <th class="trow">Gauging</th>
-                <th class="trow">Rocking</th>
-            </tr>
         </tbody>
     </table>
 </section>
