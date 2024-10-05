@@ -249,16 +249,16 @@ layout: reveal
     <style>.header19 header:after { content: "\\'\\'≠.\\ (2015)"; }</style>
     <img src="assets/imgs/medvsproc.jpg" />
 </section>
-<section data-background-color="black" data-background-image="assets/imgs/BIY_posters.png">
+<section data-background-color="black" data-background-image="assets/imgs/BIY_posters.png" data-state=auto>
+<style>.aut header:after { content: "Believe It Yourself (2018), Automato"; }</style>
     <span class="lit">CRITICAL<br>FABLES</span>
 </section>
-<section data-background-color="black" data-background-image="assets/imgs/BIY_posters.png">
+<section data-background-color="black" >
     <div class="quotes">
     A narrative-centric design framework that employs allegorical storytelling to engage with complex issues, critique dominant paradigms, and envision alternative histories. It serves as catalyst for transformative discourse by provoking critical enquiry, ethical contemplation, and the reimagining of realities beyond conventional beliefs.
     </div>
 </section>
 <section data-background-color="black" data-background-image="assets/imgs/BIY_posters.png" data-state=auto>
-<style>.aut header:after { content: "Believe It Yourself (2018), Automato"; }</style>
     <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/339397318?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="BIY - Harmonious Self Driving Kit"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 </section>
 <section data-background-color="black" data-opacity="50%" data-background-image="assets/imgs/aesop_2.jpg">
