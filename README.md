@@ -17,7 +17,11 @@
 >
 > [✓ 5. Collective Soundscape](#5-collective-soundscape)
 >
-> [✓ 6. Biome As Metaphor](#6-biome-as-metaphor)
+> [✓ 6. Biome As Catalyst](#6-biome-as-catalyst)
+>
+> [✓ Deliverables](#deliverables)
+>
+> [✓ Sound Production](#sound-production)
 >
 > [✓ Key Dates & Times](#key-dates--times)
 >
