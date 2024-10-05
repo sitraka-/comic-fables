@@ -338,8 +338,8 @@ layout: reveal
        ✓ A Serendipity Fare Card: The public transport fare card not only handles payments but also occasionally grants random rewards—like free rides or discounts at local businesses—based on travel patterns. Commuters start to alter their routes slightly, hoping to trigger these unexpected benefits, which gradually reshapes the flow of people through the city in unpredictable ways.
     </div>
   </section>
-  <section data-background-color="#ff0000" data-background-image="assets/imgs/lud_d.png" data-state=lud>
-<style>.lud header:after { content: "Gene Collect (2010), Ludwig Zeller"; }</style>
+  <section data-background-color="#ff0000" data-background-image="assets/imgs/tobKer_d.png" data-state=lud>
+<style>.lud header:after { content: "Material Beliefs/Biojewellery (2007), Tobie Kerridge"; }</style>
     <div class="quotes ">
        ✓ An Empathy Fitness Wristbands: Beyond tracking physical activity, these wristbands detect and share subtle emotional cues among wearers in close proximity. When someone nearby is stressed, the wristband gently notifies others, encouraging supportive interactions.
     </div>
@@ -409,6 +409,11 @@ layout: reveal
 </section>
 <section data-background-color="#ff0000">
     <h1 class="BT">5<br>Collective Soundscape</h1>
+</section>
+<section data-background-color="#ff0000">
+    <div class="quotes">
+        The final performance will feature a collective soundscape, created by the interaction of all the designed objects. Each object’s sound will respond to or affect the sounds of others, creating an emergent, collaborative sound environment. The focus is on how the objects interact within a shared space, rather than on separate, linear performances.
+    </div>
 </section>
 <section data-background-color="#ff0000">
     <h1 class="BT">6<br>Biome As Catalyst</h1>
