@@ -26,6 +26,10 @@ body {
     font-family: 'IBM Plex Mono';
 }
 
+ins {
+    text-underline-offset: 4px;
+}
+
 .BT {
     font-family: "Major Mono Display" !important;
     font-weight: normal !important;
