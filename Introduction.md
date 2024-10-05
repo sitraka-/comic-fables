@@ -284,13 +284,27 @@ layout: reveal
 </section>
 <section data-background-color="#ff0000">
     <div class="quotes">
-        Work in teams to design and build sonic objects that play a critical role in the world you are tasked to explore. These objects should mediate or facilitate newly emerging rituals shaped by the world’s socio-political, environmental, or technological structures.<br><br>
-
-The final outcome will be a collective soundscape performance, telling framgments of a world by showcasing how these objects interact and the rituals they enable and support. This performance, akin to a devised play, will not tell a linear story but will instead present an exploration of critical ideas.
+        Work in teams to design and build sonic objects that play a critical role in the world you are tasked to explore. These objects should mediate or facilitate newly emerging rituals shaped by the world’s socio-political, environmental, or technological structures.<br><br>The final outcome will be a collective soundscape performance, telling framgments of a world by showcasing how these objects interact and the rituals they enable and support. This performance, akin to a devised play, will not tell a linear story but will instead present an exploration of critical ideas.
     </div>
 </section>
 <section data-background-color="#ff0000">
     <h1 class="BT">1<br>A System Of Emergent Rituals</h1>
+</section>
+<section data-background-color="#ff0000">
+    <div class="quotes">
+        The world you will explore is defined by the emergence of new rituals responding to shifting conditions. These rituals may not even be consciously recognised by the inhabitants as “rituals”; rather, they are everyday practices that organise life, from social etiquette to resource management and conflict resolution.<br><br>Your task is to design objects that facilitate or mediate these emerging rituals. These artefacts should be practical and integral to the functioning of the speculative world’s systems.
+    </div>
+</section>
+<section data-background-color="#ff0000">
+    <div class="quotes fragment">
+        A bureaucratic object designed for identity verification, playing a crucial role in organising the distribution of scarce resources or enforcing social hierarchies.
+    </div>
+    <div class="quotes fragment">
+        An audio tool that facilitates communication between inhabitants and their environment, enabling them to navigate, interpret, or even manipulate natural elements for survival.
+    </div>
+    <div class="quotes fragment">
+        A territorial marker, a device that emits signals or cues to define invisible borders, regulating who can cross into or out of various territories in a fragmented world, perhaps functioning as a key element in maintaining the power dynamics between neighbouring zones.
+    </div>
 </section>
 <section data-background-color="#ff0000">
     <h1 class="BT">2<br>Rituals As Everyday Construct</h1>
@@ -307,6 +321,6 @@ The final outcome will be a collective soundscape performance, telling framgment
 <section data-background-color="#ff0000">
     <h1 class="BT">6<br>Biome As Catalyst</h1>
 </section>
-<section data-background-color="#ff0000">
+<section>
     <a href="https://sitraka-.github.io/cosmic-fables/TheAlchemyOfRuin.html"><h1 class="BT">The Alchemy Of Ruin</h1></a>
 </section>
