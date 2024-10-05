@@ -30,6 +30,10 @@ ins {
     text-underline-offset: 4px;
 }
 
+.tic {
+    color: aqua !important;
+}
+
 .BT {
     font-family: "Major Mono Display" !important;
     font-weight: normal !important;
