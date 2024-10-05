@@ -420,17 +420,18 @@ layout: reveal
 </section>
 <section data-background-color="#ff0000">
     <div class="quotes">
-        The speculative world you will work within is an adaptive system, constantly responding to new challenges—whether environmental, technological, or political. Rituals evolve to help inhabitants navigate these shifts, and the objects you design will play a key role in sustaining or disrupting these rituals.<br><br>To create meaningful and impactful designs, it’s essential that you thoroughly read and engage with the detailed description of this world. Pay close attention to its nuances and complexities, as understanding the environment and its dynamics will inform your object’s functionality and relevance within the system.<br><br>The challenge is to design objects that both fit within this world and reflect the larger structures that shape it.
+        The speculative world you will work within is an adaptive system, constantly responding to new challenges—whether environmental, technological, or political. Rituals evolve to help inhabitants navigate these shifts, and the objects you design will play a key role in sustaining or disrupting these rituals.<br><br>To create meaningful and impactful design interventions, it’s essential that you thoroughly read and engage with the detailed description of this world. Pay close attention to its nuances and complexities, as understanding the environment and its dynamics will inform your object’s functionality and relevance within the system.<br><br>The challenge is to design objects that both fit within this world and reflect the larger structures that shape it.
     </div>
 </section>
 <section data-background-color="#ff0000">
     <h1 class="BT">Deliverables</h1>
 </section>
 <section data-background-color="#ff0000">
-    <div class="quotes">
-        <p>✓ A short description of the ritual/event, in the form of a narrative piece of writing (~250 words).</p>
-        <p class="fragment">✓ A collective performance of the rituals (details about the format will be communicated as the project progresses), to take place in the Studio Theatre at Central Saint Martins.</p>
-        <p class="fragment">✓ A well considered photograph of the sound making items, objects, or artefacts created.</p>
+    <div class="quotes">✓ A short description of the ritual/event, in the form of a narrative piece of writing (~250 words).</div>
+    <p></p>
+        <div class="quotes fragment">✓ A collective performance of the rituals (details about the format will be communicated as the project progresses), to take place in the Studio Theatre at Central Saint Martins.</div>
+        <p></p>
+        <div class="quotes fragment">✓ A well considered photograph of the sound making items, objects, or artefacts created.</div>
     </div>
 </section>
 <section>
