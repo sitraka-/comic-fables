@@ -295,16 +295,21 @@ layout: reveal
         The world you will explore is defined by the emergence of new rituals responding to shifting conditions. These rituals may not even be consciously recognised by the inhabitants as “rituals”; rather, they are everyday practices that organise life, from social etiquette to resource management and conflict resolution.<br><br>Your task is to design objects that facilitate or mediate these emerging rituals. These artefacts should be practical and integral to the functioning of the speculative world’s systems.
     </div>
 </section>
-<section data-background-color="#ff0000">
+<section data-background-color="#ff0000" data-background-image="assets/imgs/ppp_d.png" data-state=pp>
+<style>.pp header:after { content: "Passport Please (2013), Lucas Pope"; }</style>
     <div class="quotes">
        ✓ A bureaucratic object designed for identity verification, playing a crucial role in organising the distribution of scarce resources or enforcing social hierarchies.
     </div>
-    <p></p>
-    <div class="quotes fragment">
+</section>
+<section data-background-color="#ff0000" data-background-image="assets/imgs/nl_d.png" data-state=nl>
+<style>.nl header:after { content: "La Orejona (XS) (2023), Nicole Lhuillier"; }</style>
+<div class="quotes">
        ✓ An audio tool that facilitates communication between inhabitants and their environment, enabling them to navigate, interpret, or even manipulate natural elements for survival.
     </div>
-    <p></p>
-    <div class="quotes fragment">
+</section>
+<section data-background-color="#ff0000" data-background-image="assets/imgs/nl_d.png" data-state=tm>
+<style>.tm header:after { content: "Swiss Passport Office (2018), Tom Sachs"; }</style>
+    <div class="quotes">
        ✓ A territorial marker, a device that emits signals or cues to define invisible borders, regulating who can cross into or out of various territories in a fragmented world, perhaps functioning as a key element in maintaining the power dynamics between neighbouring zones.
     </div>
 </section>
