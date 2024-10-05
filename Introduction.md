@@ -289,3 +289,24 @@ layout: reveal
 The final outcome will be a collective soundscape performance, telling framgments of a world by showcasing how these objects interact and the rituals they enable and support. This performance, akin to a devised play, will not tell a linear story but will instead present an exploration of critical ideas.
     </div>
 </section>
+<section data-background-color="#ff0000">
+    <h1 class="BT">1<br>A System Of Emergent Rituals</h1>
+</section>
+<section data-background-color="#ff0000">
+    <h1 class="BT">2<br>Rituals As Everyday Construct</h1>
+</section>
+<section data-background-color="#ff0000">
+    <h1 class="BT">3<br>Sound As Integral To Object Function</h1>
+</section>
+<section data-background-color="#ff0000">
+    <h1 class="BT">4<br>Critical Fables Embedded In Objects X Rituals</h1>
+</section>
+<section data-background-color="#ff0000">
+    <h1 class="BT">5<br>Collective Soundscape</h1>
+</section>
+<section data-background-color="#ff0000">
+    <h1 class="BT">6<br>Biome As Catalyst</h1>
+</section>
+<section data-background-color="#ff0000">
+    <a href="https://sitraka-.github.io/cosmic-fables/TheAlchemyOfRuin.html"><h1 class="BT">The Alchemy Of Ruin</h1></a>
+</section>
