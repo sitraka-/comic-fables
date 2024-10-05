@@ -297,15 +297,15 @@ layout: reveal
 </section>
 <section data-background-color="#ff0000">
     <div class="quotes">
-        A bureaucratic object designed for identity verification, playing a crucial role in organising the distribution of scarce resources or enforcing social hierarchies.
+       ✓ A bureaucratic object designed for identity verification, playing a crucial role in organising the distribution of scarce resources or enforcing social hierarchies.
     </div>
     <p></p>
     <div class="quotes fragment">
-        An audio tool that facilitates communication between inhabitants and their environment, enabling them to navigate, interpret, or even manipulate natural elements for survival.
+       ✓ An audio tool that facilitates communication between inhabitants and their environment, enabling them to navigate, interpret, or even manipulate natural elements for survival.
     </div>
     <p></p>
     <div class="quotes fragment">
-        A territorial marker, a device that emits signals or cues to define invisible borders, regulating who can cross into or out of various territories in a fragmented world, perhaps functioning as a key element in maintaining the power dynamics between neighbouring zones.
+       ✓ A territorial marker, a device that emits signals or cues to define invisible borders, regulating who can cross into or out of various territories in a fragmented world, perhaps functioning as a key element in maintaining the power dynamics between neighbouring zones.
     </div>
 </section>
 <section data-background-color="#ff0000">
