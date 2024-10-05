@@ -257,7 +257,7 @@ layout: reveal
     A narrative-centric design framework that employs allegorical storytelling to engage with complex issues, critique dominant paradigms, and envision alternative histories. It serves as catalyst for transformative discourse by provoking critical enquiry, ethical contemplation, and the reimagining of realities beyond conventional beliefs.
     </div>
 </section>
-<section data-background-color="black" data-background-image="assets/imgs/aesop_2.jpg">
+<section data-background-color="black" data-opacity="50%" data-background-image="assets/imgs/aesop_2.jpg">
     <span class="lit">FABLED<br>NARRATIVE</span>
 </section>
 <section data-background-color="black">
