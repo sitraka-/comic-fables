@@ -295,7 +295,7 @@ layout: reveal
         The world you will explore is defined by the emergence of new rituals responding to shifting conditions. These rituals may not even be consciously recognised by the inhabitants as “rituals”; rather, they are everyday practices that organise life, from social etiquette to resource management and conflict resolution.<br><br>Your task is to design objects that facilitate or mediate these emerging rituals. These artefacts should be practical and integral to the functioning of the speculative world’s systems.
     </div>
 </section>
-<section data-background-color="#ff0000" data-background-image="assets/imgs/ppp_d.png" data-state=pp>
+<section data-background-color="#ff0000" data-background-image="assets/imgs/ppp_d_.png" data-state=pp>
 <style>.pp header:after { content: "Passport Please (2013), Lucas Pope"; }</style>
     <div class="quotes">
        ✓ A bureaucratic object designed for identity verification, playing a crucial role in organising the distribution of scarce resources or enforcing social hierarchies.
@@ -307,7 +307,7 @@ layout: reveal
        ✓ An audio tool that facilitates communication between inhabitants and their environment, enabling them to navigate, interpret, or even manipulate natural elements for survival.
     </div>
 </section>
-<section data-background-color="#ff0000" data-background-image="assets/imgs/nl_d.png" data-state=tm>
+<section data-background-color="#ff0000" data-background-image="assets/imgs/tm_d.png" data-state=tm>
 <style>.tm header:after { content: "Swiss Passport Office (2018), Tom Sachs"; }</style>
     <div class="quotes">
        ✓ A territorial marker, a device that emits signals or cues to define invisible borders, regulating who can cross into or out of various territories in a fragmented world, perhaps functioning as a key element in maintaining the power dynamics between neighbouring zones.
@@ -330,12 +330,14 @@ layout: reveal
     <div class="quotes">
        ✓ A Conversational Coffee Machine: The communal office coffee machine begins to offer personalized drink recommendations based on the time of day and previous choices. Over time, it starts sharing quirky trivia or motivational quotes that align uncannily with employees’ current projects or moods, subtly influencing the office atmosphere and becoming a central piece in daily interactions.
     </div>
-    <p></p>
-    <div class="quotes fragment">
+  </section>
+  <section data-background-color="#ff0000">
+    <div class="quotes ">
        ✓ A Serendipity Fare Card: The public transport fare card not only handles payments but also occasionally grants random rewards—like free rides or discounts at local businesses—based on travel patterns. Commuters start to alter their routes slightly, hoping to trigger these unexpected benefits, which gradually reshapes the flow of people through the city in unpredictable ways.
     </div>
-    <p></p>
-    <div class="quotes fragment">
+  </section>
+  <section data-background-color="#ff0000">
+    <div class="quotes ">
        ✓ An Empathy Fitness Wristbands: Beyond tracking physical activity, these wristbands detect and share subtle emotional cues among wearers in close proximity. When someone nearby is stressed, the wristband gently notifies others, encouraging supportive interactions. This leads to a new social ritual where people become more attuned to the well-being of those around them, fostering a more compassionate community.
     </div>
 </section>
