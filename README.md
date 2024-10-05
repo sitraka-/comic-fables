@@ -57,18 +57,18 @@ Drawing parallels to [Sun Ra](https://en.wikipedia.org/wiki/Sun_Ra)’s [*Space 
 
 Like [Ursula K. Le Guin](https://en.wikipedia.org/wiki/Ursula_K._Le_Guin) and [Todd Barton](https://www.toddbarton.com/)’s [*Music And Poetry Of The Kesh*](https://www.ursulakleguin.com/kesh-music), where instruments are deeply intertwined with the values and lifeways of a fictional society, the objects you design must embody the rituals, values, and tensions of the world they belong to.
 
-<ins>The objects you create are not just artefacts; they are catalysts for thinking.</ins> The boundaries between maker and object, ritual and system, are intentionally blurred, you are crafting critical fables—narratives that offer new ways of understanding the present and imagining alternative paths forward.
+The objects you create are not just artefacts; <ins>they are catalysts for thinking.</ins> The boundaries between object, ritual and system, are intentionally blurred, you are crafting critical fables—narratives that offer new ways of understanding the present and imagining alternative paths forward.
 
 ### 1. A SYSTEM OF EMERGENT RITUALS
 
-The world you will explore is not defined by a single crisis or event but by the emergence of **new rituals** responding to shifting conditions. These rituals may not even be consciously recognised by the inhabitants as "rituals"; rather, they are everyday practices that organise life, from social etiquette to resource management.
+The world you will explore is defined by the emergence of **new rituals** responding to shifting conditions. These rituals may not even be consciously recognised by the inhabitants as "rituals"; rather, they are everyday practices that organise life, from social etiquette to resource management and conflict resolution.
 
 Your task is to design **objects** that facilitate or mediate these emerging rituals. These artefacts should be practical and integral to the functioning of the speculative world’s systems.
 
 **Examples**:
-- A **bureaucratic object** for managing identity verification which could be central to the regulation of people’s access to resources or mobility.
-- A **sonic tool** used to interact with the environment, perhaps helping inhabitants communicate with natural elements or harvest resources.
-- A **geopolitical device** acting as a border control mechanism in a fragmented world, possibly regulating who can cross into different territories.
+- A **bureaucratic object** designed for identity verification, playing a crucial role in organising the distribution of scarce resources or enforcing social hierarchies.
+- An **audio tool** that facilitates communication between inhabitants and their environment, enabling them to navigate, interpret, or even manipulate natural elements for survival.
+- A **territorial marker**, a device that emits signals or cues to define invisible borders, regulating who can cross into or out of various territories in a fragmented world, perhaps functioning as a key element in maintaining the power dynamics between neighbouring zones. 
 
 The objects should reflect the **systems** of this world (social, political, or ecological) and be deeply embedded in its **ritualistic practices**.
 
@@ -79,8 +79,9 @@ Rituals, in this brief, extend beyond traditional ceremonies and include **any o
 Each group is tasked with designing objects that play a pivotal role in these **practical, everyday rituals**. Rather than focusing on metaphorical representations, the object should serve a functional purpose within the world’s structures.
 
 **Examples**:
-- A **device** that facilitates sonic communications between distant communities as part of a survival or resource-sharing ritual.
-- A **tool** used in daily environmental monitoring, with its sound indicating shifts in climate or resource availability.
+- A **Conversational Coffee Machine**: The communal office coffee machine begins to offer personalized drink recommendations based on the time of day and previous choices. Over time, it starts sharing quirky trivia or motivational quotes that align uncannily with employees' current projects or moods, subtly influencing the office atmosphere and becoming a central piece in daily interactions.
+- A **Serendipity Fare Card**: The public transport fare card not only handles payments but also occasionally grants random rewards—like free rides or discounts at local businesses—based on travel patterns. Commuters start to alter their routes slightly, hoping to trigger these unexpected benefits, which gradually reshapes the flow of people through the city in unpredictable ways.
+- An **Empathy Fitness Wristbands**: Beyond tracking physical activity, these wristbands detect and share subtle emotional cues among wearers in close proximity. When someone nearby is stressed, the wristband gently notifies others, encouraging supportive interactions. This leads to a new social ritual where people become more attuned to the well-being of those around them, fostering a more compassionate community.
 
 Your focus is to create objects that **function** within the speculative world’s systems, helping to ground the rituals in a practical, everyday context.
 
