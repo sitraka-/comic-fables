@@ -57,7 +57,7 @@ Drawing parallels to [Sun Ra](https://en.wikipedia.org/wiki/Sun_Ra)’s [*Space 
 
 Like [Ursula K. Le Guin](https://en.wikipedia.org/wiki/Ursula_K._Le_Guin) and [Todd Barton](https://www.toddbarton.com/)’s [*Music And Poetry Of The Kesh*](https://www.ursulakleguin.com/kesh-music), where instruments are deeply intertwined with the values and lifeways of a fictional society, the objects you design must embody the rituals, values, and tensions of the world they belong to.
 
-The objects you create are not just artefacts; they are catalysts for thinking. The boundaries between maker and object, ritual and system, are intentionally blurred, you are crafting critical fables—narratives that offer new ways of understanding the present and imagining alternative paths forward.
+<ins>The objects you create are not just artefacts; they are catalysts for thinking.</ins> The boundaries between maker and object, ritual and system, are intentionally blurred, you are crafting critical fables—narratives that offer new ways of understanding the present and imagining alternative paths forward.
 
 ### 1. A SYSTEM OF EMERGENT RITUALS
 
