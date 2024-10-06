@@ -223,6 +223,13 @@ h5#index {
     font-weight: bold;
 }
 
+.tt tr th:first-child,
+.ttt tr td:first-child {
+    width: 1rem;
+    min-width: 1rem;
+    max-width: 1rem;
+}
+
 .stage td {
     height: 10px;
     color: aqua;

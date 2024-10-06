@@ -440,7 +440,7 @@ layout: reveal
 <section>
     <table class="sem">
     <!-- style="table-layout:fixed; width:100%;"> -->
-        <thead>
+        <thead clas="tt">
             <tr>
                 <th style="border:none !important;"></th>
                 <th class="trow" style="font-size: 11px !important;">Oct. 7</th>
@@ -452,7 +452,7 @@ layout: reveal
                 <th class="trow" style="font-size: 11px !important;">Nov. 18</th>
             </tr>
         </thead>
-        <tbody>
+        <tbody class="ttt">
             <tr class="stage">
                 <td style="border-left:none !important;"></td>
                 <td class="trow" style="font-size: 11px !important;">Worldbuilding</td>
