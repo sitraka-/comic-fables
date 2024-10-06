@@ -496,7 +496,7 @@ layout: reveal
     </table>
 </section>
 <section>
-    <h1 class="NT" style="font-family:'picnic' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 13rem !important;" >good<br>luck</h1>
+    <a href="https://sitraka-.github.io/cosmic-fables/"><h1 class="NT" style="font-family:'picnic' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 13rem !important;" >!!good<br>luck!!</h1></a>
 </section>
 
 <section>
