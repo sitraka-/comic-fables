@@ -495,7 +495,9 @@ layout: reveal
         </tbody>
     </table>
 </section>
-
+<section>
+    <h1 class="NT" style="font-family:'picnic' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 13rem !important;" >good<br>luck</h1>
+</section>
 
 <section>
     <h1 class="BT">3X3 Sprint</h1>
