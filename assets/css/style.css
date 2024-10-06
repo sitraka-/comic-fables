@@ -248,6 +248,10 @@ h5#index {
     border-color: white !important;
 }
 
+.pl {
+    background: cadetblue;
+}
+
 .reveal-viewport {
     padding: 0;
 }
