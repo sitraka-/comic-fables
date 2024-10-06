@@ -279,6 +279,9 @@ layout: reveal
         <em>(Paraphrasing Tim Ingold)</em><br>The process of creation is not about imposing pre-formed ideas onto materials, but rather about a continuous "correspondence" where both the maker and the material influence and transform one another. <br><br>
     </div>
 </section>
+<section data-background-color="black" data-background-image="assets/imgs/hertz_d.png" data-state=gh>
+    <iframe width="100%" height="600" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/345347962&color=%23f700ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/veryveryfaraway" title="VVFA" target="_blank" style="color: #cccccc; text-decoration: none;">VVFA</a> · <a href="https://soundcloud.com/veryveryfaraway/live-2-critical-making-with-garnet-hertz-vvfa-at-v-a" title="Live #2 - Critical Making with Garnet Hertz - VVFA at V &amp; A" target="_blank" style="color: #cccccc; text-decoration: none;">Live #2 - Critical Making with Garnet Hertz - VVFA at V &amp; A</a></div>
+</section>
 <section data-background-color="#ff0000">
     <h1 class="BT">Objectives</h1>
 </section>
