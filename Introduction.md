@@ -441,7 +441,7 @@ layout: reveal
     <table class="sem">
         <thead>
             <tr>
-                <th></th>
+                <th style="border:none !important;"></th>
                 <th class="trow">Oct. 7</th>
                 <th class="trow">Oct. 14</th>
                 <th class="trow">Oct. 21</th>
@@ -453,7 +453,7 @@ layout: reveal
         </thead>
         <tbody>
             <tr>
-                <th></th>
+                <th style="border:none !important;"></th>
                 <th class="trow">Worldbuilding</th>
                 <th class="trow">Embodied Storytelling</th>
                 <th class="trow">Crafting the speculation</th>
