@@ -439,7 +439,7 @@ layout: reveal
 
 <section>
     <table class="sem" style="table-layout:fixed; width:100%;"> 
-        <thead clas="tt">
+        <thead class="tt">
             <tr>
                 <th style="border:none !important;"></th>
                 <th class="trow" style="font-size: 11px !important; background: darkblue;">Oct. 7</th>
