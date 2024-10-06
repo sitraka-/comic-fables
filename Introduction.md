@@ -453,44 +453,44 @@ layout: reveal
         </thead>
         <tbody>
             <tr>
-                <th style="border:none !important;"></th>
-                <th class="trow" style="font-size: 11px !important;">Worldbuilding</th>
-                <th class="trow" style="font-size: 11px !important;">Embodied Storytelling</th>
-                <th class="trow" style="font-size: 11px !important;">Crafting the speculation</th>
-                <th class="trow" style="font-size: 11px !important;">Iteration 1</th>
-                <th class="trow" style="font-size: 11px !important;">Refining Designs</th>
-                <th class="trow" style="font-size: 11px !important;">Performing Rituals</th>
-                <th class="trow" style="font-size: 11px !important;">Presentation</th>
+                <td style="border:none !important;"></td>
+                <td class="trow" style="font-size: 11px !important;">Worldbuilding</td>
+                <td class="trow" style="font-size: 11px !important;">Embodied Storytelling</td>
+                <td class="trow" style="font-size: 11px !important;">Crafting the speculation</td>
+                <td class="trow" style="font-size: 11px !important;">Iteration 1</td>
+                <td class="trow" style="font-size: 11px !important;">Refining Designs</td>
+                <td class="trow" style="font-size: 11px !important;">Performing Rituals</td>
+                <td class="trow" style="font-size: 11px !important;">Presentation</td>
             </tr>
             <tr>
-                <th class="trow" style="font-size: 11px !important;">MON</th>
-                <th class="trow" style="font-size: 11px !important;">Seminar</th>
-                <th class="trow" style="font-size: 11px !important;">Ritual Making / Mock ups</th>
-                <th class="trow" style="font-size: 11px !important;">Studio</th>
-                <th class="trow" style="font-size: 11px !important;">Studio</th>
-                <th class="trow" style="font-size: 11px !important;">Studio</th>
-                <th class="trow" style="font-size: 11px !important;">Representation & Presentation</th>
-                <th class="trow" style="font-size: 11px !important;">Rehearsal</th>
+                <td class="trow" style="font-size: 11px !important;">MON</td>
+                <td class="trow" style="font-size: 11px !important;">Seminar</td>
+                <td class="trow" style="font-size: 11px !important;">Ritual Making / Mock ups</td>
+                <td class="trow" style="font-size: 11px !important;">Studio</td>
+                <td class="trow" style="font-size: 11px !important;">Studio</td>
+                <td class="trow" style="font-size: 11px !important;">Studio</td>
+                <td class="trow" style="font-size: 11px !important;">Representation & Presentation</td>
+                <td class="trow" style="font-size: 11px !important;">Rehearsal</td>
             </tr>
             <tr>
-                <th class="trow" style="font-size: 11px !important;">TUE</th>
-                <th class="trow" style="font-size: 11px !important;">Electronic Workshop</th>
-                <th class="trow" style="font-size: 11px !important;">Worldbuilding</th>
-                <th class="trow" style="font-size: 11px !important;">Studio</th>
-                <th class="trow" style="font-size: 11px !important;">Design Review</th>
-                <th class="trow" style="font-size: 11px !important;">Studio</th>
-                <th class="trow" style="font-size: 11px !important;">Studio</th>
-                <th class="trow" style="font-size: 11px !important;">Final Crit</th>
+                <td class="trow" style="font-size: 11px !important;">Electronic Workshop</td>
+                <td class="trow" style="font-size: 11px !important;">Worldbuilding</td>
+                <td class="trow" style="font-size: 11px !important;">Studio</td>
+                <td class="trow" style="font-size: 11px !important;">Design Review</td>
+                <td class="trow" style="font-size: 11px !important;">Studio</td>
+                <td class="trow" style="font-size: 11px !important;">Studio</td>
+                <td class="trow" style="font-size: 11px !important;">TUE</td>
+                <td class="trow" style="font-size: 11px !important;">Final Crit</td>
             </tr>
             <tr>
-                <th class="trow" style="font-size: 11px !important;">WED</th>
-                <th class="trow" style="font-size: 11px !important;">Ritual Making</th>
-                <th class="trow" style="font-size: 11px !important;">Studio</th>
-                <th class="trow" style="font-size: 11px !important;">Studio</th>
-                <th class="trow" style="font-size: 11px !important;">Studio</th>
-                <th class="trow" style="font-size: 11px !important;">Studio</th>
-                <th class="trow" style="font-size: 11px !important;">Studio</th>
-                <th class="trow" style="font-size: 11px !important;">Next Brief Launch</th>
+                <td class="trow" style="font-size: 11px !important;">WED</td>
+                <td class="trow" style="font-size: 11px !important;">Ritual Making</td>
+                <td class="trow" style="font-size: 11px !important;">Studio</td>
+                <td class="trow" style="font-size: 11px !important;">Studio</td>
+                <td class="trow" style="font-size: 11px !important;">Studio</td>
+                <td class="trow" style="font-size: 11px !important;">Studio</td>
+                <td class="trow" style="font-size: 11px !important;">Studio</td>
+                <td class="trow" style="font-size: 11px !important;">Next Brief Launch</td>
             </tr>
         </tbody>
     </table>
