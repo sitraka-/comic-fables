@@ -226,7 +226,7 @@ h5#index {
 .stage td {
     height: 10px;
     color: aqua;
-    border-color: white;
+    border-color: white !important;
 }
 
 .hl {
