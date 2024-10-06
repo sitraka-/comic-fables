@@ -429,13 +429,14 @@ layout: reveal
 <section>
     <h1 class="BT">Deliverables</h1>
 </section>
-<section data-background-color="#ff0000">
+<section>
     <div class="quotes">✓ A short description of the ritual/event, in the form of a narrative piece of writing (~250 words).</div>
     <p></p>
         <div class="quotes fragment">✓ A collective performance of the rituals (details about the format will be communicated as the project progresses), to take place in the Studio Theatre at Central Saint Martins.</div>
         <p></p>
         <div class="quotes fragment">✓ A well considered photograph of the sound making items, objects, or artefacts created.</div>
 </section>
+
 <section>
     <table class="sem">
         <thead>
@@ -449,7 +450,7 @@ layout: reveal
                 <th class="trow">Nov. 11</th>
                 <th class="trow">Nov. 18</th>
             </tr>
-        <thead>
+        </thead>
         <tbody>
             <tr>
                 <th></th>
@@ -494,6 +495,8 @@ layout: reveal
         </tbody>
     </table>
 </section>
+
+
 <section>
     <h1 class="BT">3X3 Sprint</h1>
      <div class="quotes smalf">
@@ -562,6 +565,8 @@ layout: reveal
         </tbody>
     </table>
 </section>
+
+
 <section data-background-image="assets/imgs/wb.png" data-background-size="60%">
      <p class="flexy"><span class="fragment">✓POLICY-MAKING</span><span class="fragment">✓HEALTH & SAFETY</span></p>
     <p class="flexy margin6remTop"><span class="fragment">✓SOCIAL FABRIC</span><span class="fragment">✓WEALTH DISTRIBUTION</span></p>
