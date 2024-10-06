@@ -229,6 +229,12 @@ h5#index {
     border-color: white;
 }
 
+.hl {
+    background: red;
+    color: aqua;
+    border-color: white;
+}
+
 .reveal-viewport {
     padding: 0;
 }
