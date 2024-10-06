@@ -476,10 +476,10 @@ layout: reveal
                 <td class="trow" style="font-size: 11px !important; border-left:none !important;">TUE</td>
                 <td class="trow" style="font-size: 11px !important;">Worldbuilding</td>
                 <td class="trow sl" style="font-size: 11px !important;">Electronic Workshop</td>
-                <td class="trow" style="font-size: 11px !important;">Studio</td>
+                <td class="trow" style="font-size: 11px !important;">Supervised Studio</td>
                 <td class="trow hl" style="font-size: 11px !important;">Design Review</td>
-                <td class="trow" style="font-size: 11px !important;">Studio</td>
-                <td class="trow" style="font-size: 11px !important;">Studio</td>
+                <td class="trow" style="font-size: 11px !important;">Supervised Studio</td>
+                <td class="trow" style="font-size: 11px !important;">Supervised Studio</td>
                 <td class="trow hl" style="font-size: 11px !important;">Final Crit</td>
             </tr>
             <tr>
