@@ -453,7 +453,7 @@ layout: reveal
         </thead>
         <tbody>
             <tr>
-                <td style="border:none !important;"></td>
+                <td style=""></td>
                 <td class="trow" style="font-size: 11px !important;">Worldbuilding</td>
                 <td class="trow" style="font-size: 11px !important;">Embodied Storytelling</td>
                 <td class="trow" style="font-size: 11px !important;">Crafting the speculation</td>
