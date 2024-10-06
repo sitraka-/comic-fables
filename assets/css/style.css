@@ -216,6 +216,13 @@ h5#index {
     font-size: 17px !important;
 }
 
+.sem td {
+    height: 60px;
+    border: none;
+    border-left: solid thin;
+    font-weight: bold;
+}
+
 .reveal-viewport {
     padding: 0;
 }
