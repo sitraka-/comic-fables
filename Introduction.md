@@ -358,7 +358,7 @@ layout: reveal
     </div>
 </section>
 <section data-background-color="#ff0000" data-background-image="assets/imgs/sf_d.png" data-state=sf>
-<style>.sf header:after { content: "Univited Guests (2015), Superflux"; }</style>
+<style>.sf header:after { content: "Uninvited Guests (2015), Superflux"; }</style>
     <div class="quotes">
        ✓ A walking staff used by travellers that emits sounds responding to the environment. As the user moves, the staff produces gentle tones that vary based on proximity to resources like food, water, or safe shelter. When danger is near—such as unstable terrain or hazardous weather—the sounds shift to urgent, dissonant notes.
     </div>
@@ -420,10 +420,13 @@ layout: reveal
 </section>
 <section data-background-color="#ff0000">
     <div class="quotes">
-        The speculative world you will work within is an adaptive system, constantly responding to new challenges—whether environmental, technological, or political. Rituals evolve to help inhabitants navigate these shifts, and the objects you design will play a key role in sustaining or disrupting these rituals.<br><br>To create meaningful and impactful design interventions, it’s essential that you thoroughly read and engage with the detailed description of this world. Pay close attention to its nuances and complexities, as understanding the environment and its dynamics will inform your object’s functionality and relevance within the system.<br><br>The challenge is to design objects that both fit within this world and reflect the larger structures that shape it.
+        The speculative world you will work within is an adaptive system, constantly responding to new challenges—whether environmental, technological, or political. Rituals evolve to help inhabitants navigate these shifts, and the objects you design will play a key role in sustaining or disrupting these rituals.<br><br>The challenge is to design objects that both fit within this world and reflect the larger structures that shape it.
     </div>
 </section>
-<section data-background-color="#ff0000">
+<section>
+    <a href="https://sitraka-.github.io/cosmic-fables/TheAlchemyOfRuin.html"><h1 class="BT">The Alchemy Of Ruin</h1></a>
+</section>
+<section>
     <h1 class="BT">Deliverables</h1>
 </section>
 <section data-background-color="#ff0000">
@@ -434,7 +437,62 @@ layout: reveal
         <div class="quotes fragment">✓ A well considered photograph of the sound making items, objects, or artefacts created.</div>
 </section>
 <section>
-    <a href="https://sitraka-.github.io/cosmic-fables/TheAlchemyOfRuin.html"><h1 class="BT">The Alchemy Of Ruin</h1></a>
+    <table class="sem">
+        <thead>
+            <tr>
+                <th></th>
+                <th>Oct. 7</th>
+                <th>Oct. 14</th>
+                <th>Oct. 21</th>
+                <th>Oct. 28</th>
+                <th>Nov. 4</th>
+                <th>Nov. 11</th>
+                <th>Nov. 18</th>
+            </tr>
+        <thead>
+        <tbody>
+            <tr>
+                <th></th>
+                <th>Worldbuilding</th>
+                <th>Embodied Storytelling</th>
+                <th>Crafting the speculation</th>
+                <th>Iteration 1</th>
+                <th>Refining Designs</th>
+                <th>Performing Rituals</th>
+                <th>Presentation</th>
+            </tr>
+            <tr>
+                <th>MON</th>
+                <th>Seminar</th>
+                <th>Ritual Making / Mock ups</th>
+                <th>Studio</th>
+                <th>Studio</th>
+                <th>Studio</th>
+                <th>Representation & Presentation</th>
+                <th>Rehearsal</th>
+            </tr>
+            <tr>
+                <th>TUE</th>
+                <th>Worldbuilding</th>
+                <th>Electronic Workshop</th>
+                <th>Studio</th>
+                <th>Design Review</th>
+                <th>Studio</th>
+                <th>Studio</th>
+                <th>Final Crit</th>
+            </tr>
+            <tr>
+                <th>WED</th>
+                <th>Ritual Making</th>
+                <th>Studio</th>
+                <th>Studio</th>
+                <th>Studio</th>
+                <th>Studio</th>
+                <th>Studio</th>
+                <th>Next Brief Launch</th>
+            </tr>
+        </tbody>
+    </table>
 </section>
 <section>
     <h1 class="BT">3X3 Sprint</h1>
