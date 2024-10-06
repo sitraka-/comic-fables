@@ -442,12 +442,12 @@ layout: reveal
         <thead class="tt">
             <tr>
                 <th style="border:none !important;"></th>
+                <th class="trow" style="font-size: 11px !important;">Oct. 7</th>
                 <th class="trow" style="font-size: 11px !important;">Oct. 14</th>
                 <th class="trow" style="font-size: 11px !important;">Oct. 21</th>
                 <th class="trow" style="font-size: 11px !important;">Oct. 28</th>
                 <th class="trow" style="font-size: 11px !important;">Nov. 4</th>
                 <th class="trow" style="font-size: 11px !important;">Nov. 11</th>
-                <th class="trow" style="font-size: 11px !important;">Oct. 7</th>
                 <th class="trow" style="font-size: 11px !important;">Nov. 18</th>
             </tr>
         </thead>
@@ -476,10 +476,10 @@ layout: reveal
                 <td class="trow" style="font-size: 11px !important; border-left:none !important;">TUE</td>
                 <td class="trow" style="font-size: 11px !important;">Worldbuilding</td>
                 <td class="trow sl" style="font-size: 11px !important;">Electronic Workshop</td>
-                <td class="trow" style="font-size: 11px !important;">Supervised Studio</td>
+                <td class="trow" style="font-size: 11px !important;">Studio</td>
                 <td class="trow hl" style="font-size: 11px !important;">Design Review</td>
-                <td class="trow" style="font-size: 11px !important;">Supervised Studio</td>
-                <td class="trow" style="font-size: 11px !important;">Supervised Studio</td>
+                <td class="trow" style="font-size: 11px !important;">Studio</td>
+                <td class="trow" style="font-size: 11px !important;">Studio</td>
                 <td class="trow hl" style="font-size: 11px !important;">Final Crit</td>
             </tr>
             <tr>
