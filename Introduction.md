@@ -470,18 +470,18 @@ layout: reveal
                 <td class="trow" style="font-size: 11px !important;">Studio</td>
                 <td class="trow" style="font-size: 11px !important;">Studio</td>
                 <td class="trow" style="font-size: 11px !important;">Studio</td>
-                <td class="trow" style="font-size: 11px !important;">Representation & Presentation</td>
+                <td class="trow sl" style="font-size: 11px !important;">Representation & Presentation</td>
                 <td class="trow" style="font-size: 11px !important;">Rehearsal</td>
             </tr>
             <tr>
                 <td class="trow" style="font-size: 11px !important;">TUE</td>
-                <td class="trow" style="font-size: 11px !important;">Electronic Workshop</td>
                 <td class="trow" style="font-size: 11px !important;">Worldbuilding</td>
+                <td class="trow sl" style="font-size: 11px !important;">Electronic Workshop</td>
                 <td class="trow" style="font-size: 11px !important;">Studio</td>
-                <td class="trow" style="font-size: 11px !important;">Design Review</td>
+                <td class="trow hl" style="font-size: 11px !important;">Design Review</td>
                 <td class="trow" style="font-size: 11px !important;">Studio</td>
                 <td class="trow" style="font-size: 11px !important;">Studio</td>
-                <td class="trow" style="font-size: 11px !important;">Final Crit</td>
+                <td class="trow hl" style="font-size: 11px !important;">Final Crit</td>
             </tr>
             <tr>
                 <td class="trow" style="font-size: 11px !important;">WED</td>
