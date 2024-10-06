@@ -232,7 +232,13 @@ h5#index {
 .hl {
     background: red;
     color: aqua;
-    border-color: white;
+    border-color: white !important;
+}
+
+.sl {
+    background: orchid;
+    color: aqua;
+    border-color: white !important;
 }
 
 .reveal-viewport {
