@@ -438,7 +438,7 @@ layout: reveal
 </section>
 
 <section>
-    <table class="sem">
+    <table class="sem" style="table-layout:fixed; width:100%;">
         <thead>
             <tr>
                 <th style="border:none !important;"></th>
