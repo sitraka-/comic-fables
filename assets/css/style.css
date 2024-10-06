@@ -223,6 +223,12 @@ h5#index {
     font-weight: bold;
 }
 
+.stage td {
+    height: 10px;
+    color: aqua;
+    border-color: white;
+}
+
 .reveal-viewport {
     padding: 0;
 }
