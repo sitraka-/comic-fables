@@ -490,7 +490,7 @@ layout: reveal
                 <td class="trow" style="font-size: 11px !important;">Studio</td>
                 <td class="trow" style="font-size: 11px !important;">Studio</td>
                 <td class="trow" style="font-size: 11px !important;">Studio</td>
-                <td class="trow" style="font-size: 11px !important;">Next Brief Launch</td>
+                <td class="trow" style="font-size: 11px !important; background: repeating-linear-gradient(45deg, #ffffff30, transparent 4px) !important;">Next Brief Launch</td>
             </tr>
         </tbody>
     </table>
