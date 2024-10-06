@@ -441,55 +441,55 @@ layout: reveal
         <thead>
             <tr>
                 <th></th>
-                <th>Oct. 7</th>
-                <th>Oct. 14</th>
-                <th>Oct. 21</th>
-                <th>Oct. 28</th>
-                <th>Nov. 4</th>
-                <th>Nov. 11</th>
-                <th>Nov. 18</th>
+                <th class="trow">Oct. 7</th>
+                <th class="trow">Oct. 14</th>
+                <th class="trow">Oct. 21</th>
+                <th class="trow">Oct. 28</th>
+                <th class="trow">Nov. 4</th>
+                <th class="trow">Nov. 11</th>
+                <th class="trow">Nov. 18</th>
             </tr>
         <thead>
         <tbody>
             <tr>
                 <th></th>
-                <th>Worldbuilding</th>
-                <th>Embodied Storytelling</th>
-                <th>Crafting the speculation</th>
-                <th>Iteration 1</th>
-                <th>Refining Designs</th>
-                <th>Performing Rituals</th>
-                <th>Presentation</th>
+                <th class="trow">Worldbuilding</th>
+                <th class="trow">Embodied Storytelling</th>
+                <th class="trow">Crafting the speculation</th>
+                <th class="trow">Iteration 1</th>
+                <th class="trow">Refining Designs</th>
+                <th class="trow">Performing Rituals</th>
+                <th class="trow">Presentation</th>
             </tr>
             <tr>
-                <th>MON</th>
-                <th>Seminar</th>
-                <th>Ritual Making / Mock ups</th>
-                <th>Studio</th>
-                <th>Studio</th>
-                <th>Studio</th>
-                <th>Representation & Presentation</th>
-                <th>Rehearsal</th>
+                <th class="trow">MON</th>
+                <th class="trow">Seminar</th>
+                <th class="trow">Ritual Making / Mock ups</th>
+                <th class="trow">Studio</th>
+                <th class="trow">Studio</th>
+                <th class="trow">Studio</th>
+                <th class="trow">Representation & Presentation</th>
+                <th class="trow">Rehearsal</th>
             </tr>
             <tr>
-                <th>TUE</th>
-                <th>Worldbuilding</th>
-                <th>Electronic Workshop</th>
-                <th>Studio</th>
-                <th>Design Review</th>
-                <th>Studio</th>
-                <th>Studio</th>
-                <th>Final Crit</th>
+                <th class="trow">Worldbuilding</th>
+                <th class="trow">TUE</th>
+                <th class="trow">Electronic Workshop</th>
+                <th class="trow">Studio</th>
+                <th class="trow">Design Review</th>
+                <th class="trow">Studio</th>
+                <th class="trow">Studio</th>
+                <th class="trow">Final Crit</th>
             </tr>
             <tr>
-                <th>WED</th>
-                <th>Ritual Making</th>
-                <th>Studio</th>
-                <th>Studio</th>
-                <th>Studio</th>
-                <th>Studio</th>
-                <th>Studio</th>
-                <th>Next Brief Launch</th>
+                <th class="trow">WED</th>
+                <th class="trow">Ritual Making</th>
+                <th class="trow">Studio</th>
+                <th class="trow">Studio</th>
+                <th class="trow">Studio</th>
+                <th class="trow">Studio</th>
+                <th class="trow">Studio</th>
+                <th class="trow">Next Brief Launch</th>
             </tr>
         </tbody>
     </table>
