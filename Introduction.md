@@ -442,25 +442,25 @@ layout: reveal
         <thead class="tt">
             <tr>
                 <th style="border:none !important;"></th>
-                <th class="trow" style="font-size: 11px !important; background: darkblue;">Oct. 7</th>
-                <th class="trow" style="font-size: 11px !important; background: darkblue;">Oct. 14</th>
-                <th class="trow" style="font-size: 11px !important; background: darkblue;">Oct. 21</th>
-                <th class="trow" style="font-size: 11px !important; background: darkblue;">Oct. 28</th>
-                <th class="trow" style="font-size: 11px !important; background: darkblue;">Nov. 4</th>
-                <th class="trow" style="font-size: 11px !important; background: darkblue;">Nov. 11</th>
-                <th class="trow" style="font-size: 11px !important; background: darkblue;">Nov. 18</th>
+                <th class="trow" style="font-size: 11px !important;">Oct. 14</th>
+                <th class="trow" style="font-size: 11px !important;">Oct. 21</th>
+                <th class="trow" style="font-size: 11px !important;">Oct. 28</th>
+                <th class="trow" style="font-size: 11px !important;">Nov. 4</th>
+                <th class="trow" style="font-size: 11px !important;">Nov. 11</th>
+                <th class="trow" style="font-size: 11px !important;">Oct. 7</th>
+                <th class="trow" style="font-size: 11px !important;">Nov. 18</th>
             </tr>
         </thead>
         <tbody class="ttt">
             <tr class="stage">
                 <td style="border-left:none !important;"></td>
-                <td class="trow" style="font-size: 11px !important;">Worldbuilding</td>
-                <td class="trow" style="font-size: 11px !important;">Embodied Storytelling</td>
-                <td class="trow" style="font-size: 11px !important;">Crafting the speculation</td>
-                <td class="trow" style="font-size: 11px !important;">Iteration 1</td>
-                <td class="trow" style="font-size: 11px !important;">Refining Designs</td>
-                <td class="trow" style="font-size: 11px !important;">Performing Rituals</td>
-                <td class="trow" style="font-size: 11px !important;">Presentation</td>
+                <td class="trow" style="font-size: 11px !important; background: darkblue;">Worldbuilding</td>
+                <td class="trow" style="font-size: 11px !important; background: darkblue;">Embodied Storytelling</td>
+                <td class="trow" style="font-size: 11px !important; background: darkblue;">Crafting the speculation</td>
+                <td class="trow" style="font-size: 11px !important; background: darkblue;">Iteration 1</td>
+                <td class="trow" style="font-size: 11px !important; background: darkblue;">Refining Designs</td>
+                <td class="trow" style="font-size: 11px !important; background: darkblue;">Performing Rituals</td>
+                <td class="trow" style="font-size: 11px !important; background: darkblue;">Presentation</td>
             </tr>
             <tr>
                 <td class="trow" style="font-size: 11px !important; border-left:none !important;">MON</td>
