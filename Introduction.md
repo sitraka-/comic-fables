@@ -454,7 +454,7 @@ layout: reveal
         </thead>
         <tbody>
             <tr class="stage">
-                <td style="border:none !important;"></td>
+                <td style="border-left:none !important;"></td>
                 <td class="trow" style="font-size: 11px !important;">Worldbuilding</td>
                 <td class="trow" style="font-size: 11px !important;">Embodied Storytelling</td>
                 <td class="trow" style="font-size: 11px !important;">Crafting the speculation</td>
@@ -464,7 +464,7 @@ layout: reveal
                 <td class="trow" style="font-size: 11px !important;">Presentation</td>
             </tr>
             <tr>
-                <td class="trow" style="font-size: 11px !important;">MON</td>
+                <td class="trow" style="font-size: 11px !important; border-left:none !important;">MON</td>
                 <td class="trow" style="font-size: 11px !important;">Seminar</td>
                 <td class="trow" style="font-size: 11px !important;">Ritual Making / Mock ups</td>
                 <td class="trow" style="font-size: 11px !important;">Studio</td>
@@ -474,7 +474,7 @@ layout: reveal
                 <td class="trow" style="font-size: 11px !important;">Rehearsal</td>
             </tr>
             <tr>
-                <td class="trow" style="font-size: 11px !important;">TUE</td>
+                <td class="trow" style="font-size: 11px !important; border-left:none !important;">TUE</td>
                 <td class="trow" style="font-size: 11px !important;">Worldbuilding</td>
                 <td class="trow sl" style="font-size: 11px !important;">Electronic Workshop</td>
                 <td class="trow" style="font-size: 11px !important;">Studio</td>
@@ -484,7 +484,7 @@ layout: reveal
                 <td class="trow hl" style="font-size: 11px !important;">Final Crit</td>
             </tr>
             <tr>
-                <td class="trow" style="font-size: 11px !important;">WED</td>
+                <td class="trow" style="font-size: 11px !important; border-left:none !important;">WED</td>
                 <td class="trow" style="font-size: 11px !important;">Ritual Making</td>
                 <td class="trow" style="font-size: 11px !important;">Studio</td>
                 <td class="trow" style="font-size: 11px !important;">Studio</td>
