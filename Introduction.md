@@ -464,7 +464,7 @@ layout: reveal
             </tr>
             <tr>
                 <td class="trow" style="font-size: 11px !important; border-left:none !important;">MON</td>
-                <td class="trow" style="font-size: 11px !important;">Seminar</td>
+                <td class="trow" style="font-size: 11px !important; background: repeating-linear-gradient(45deg, #ffffff30, transparent 4px);">Seminar</td>
                 <td class="trow" style="font-size: 11px !important;">Ritual Making / Mock ups</td>
                 <td class="trow" style="font-size: 11px !important;">Studio</td>
                 <td class="trow" style="font-size: 11px !important;">Studio</td>
